@@ -20,14 +20,15 @@ Work experience
   * The Pennsylvania State University
   * Department of Physics, Institute for Gravitation & the Cosmos (IGC) 
 
-Skills
+AWARDS AND DISTINCTIONS
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Outstanding Doctoral Thesis, Peking University, 2019
+* China Scholarships Council Fellowship, 2016 - 2017
+
+COLLABORATIONS
+======
+* Member, Giant Radio Array for Neutrino Detection (GRAND) Collaboration, 2017 - present
+
 
 Publications
 ======
