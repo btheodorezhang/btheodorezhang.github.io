@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Bing Theodore Zhang, I am currently a Postdoctoral Research Scholar at the Pennsylvania State University.
+My name is Bing Theodore Zhang, I am currently a Postdoctoral Research Scholar at the Pennsylvania State University
 
 My research 
 ======
@@ -19,3 +19,4 @@ My research
 
 ## Experiment
 ------
+I am a member of [The Giant Radio Array for Neutrino Detection (GRAND)] (https://grand.cnrs.fr) project
