@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Bing Theodore Zhang, I am currently a Postdoctoral Research Scholar at the Pennsylvania State University
+My name is Bing Theodore Zhang. I am currently a Postdoctoral Research Scholar at the Pennsylvania State University
 
 My research 
 ======
@@ -17,6 +17,15 @@ My research
 ## Theory
 ------
 I am working on multi-messenger astrophysics, especially on ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos, and very-high-energy (VHE) gamma-rays
+
+### Project: The origin of UHECRs and it's composition 
+We proposed 
+
+### Project: The origin of high-energy neutrinos 
+We proposed 
+
+### Project: The origin of VHE gamma-rays
+We proposed 
 
 ## Experiment
 ------
