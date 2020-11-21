@@ -9,13 +9,13 @@ redirect_from:
 ---
 
 
-I am Bing Theodore Zhang, and my chinese name is 张兵. I am currently a Postdoctoral Research Scholar at the Pennsylvania State University.
+My name is Bing Theodore Zhang, I am currently a Postdoctoral Research Scholar at the Pennsylvania State University.
 
 My research 
 ======
 
-#Theory
+## Theory
 ------
 
-#Experiment
-======
+## Experiment
+------

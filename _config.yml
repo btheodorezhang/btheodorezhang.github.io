@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Bing Theodore Zhang"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : "My chinese name is 张兵. I was born in Shanxi, China"
   location         : "State College, PA"
-  employer         :
+  employer         : "The Pennsylvania State University"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
   email            : "bzz25@psu.edu"
