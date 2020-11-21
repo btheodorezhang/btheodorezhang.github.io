@@ -20,8 +20,7 @@ I am working on multi-messenger astrophysics, especially on ultra-high-energy co
 
 ### Project: The origin and composition of UHECRs 
 
-Possible candidates:
-
+Possible source candidates:
 * Low-luminosity gamma-ray bursts
 
 * Engine-driven supernova
@@ -33,11 +32,9 @@ Possible candidates:
 ### Project: The origin of high-energy neutrinos 
 
 * The correlation between IceCube-170922A and TXS 0506+056
-
   * We show
 
 * The correlation between IceCube-191001A and TDE AT2019dsg
-
   * We show
 
 ### Project: The origin of VHE gamma-rays
