@@ -19,4 +19,4 @@ My research
 
 ## Experiment
 ------
-I am a member of [The Giant Radio Array for Neutrino Detection (GRAND)](https://grand.cnrs.fr) project
+I am a member of [The Giant Radio Array for Neutrino Detection (GRAND)](https://grand.cnrs.fr)
