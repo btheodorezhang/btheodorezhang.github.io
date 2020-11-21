@@ -31,13 +31,14 @@ Possible candidates:
 * Radio galaxies
 
 ### Project: The origin of high-energy neutrinos 
-We proposed 
 
-* IceCube-170922A
-We show
+* The correlation between IceCube-170922A and TXS 0506+056
 
-* IceCube-191001A
-We show
+  * We show
+
+* The correlation between IceCube-191001A and TDE AT2019dsg
+
+  * We show
 
 ### Project: The origin of VHE gamma-rays
 We proposed 
