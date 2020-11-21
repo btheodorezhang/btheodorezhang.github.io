@@ -19,19 +19,25 @@ My research
 I am working on multi-messenger astrophysics, especially on ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos, and very-high-energy (VHE) gamma-rays
 
 ### Project: The origin and composition of UHECRs 
-We proposed 
+
+Possible candidates:
 
 * Low-luminosity gamma-ray bursts
+
 * Engine-driven supernova
+
 * Tidal disruption events
+
 * Radio galaxies
 
 ### Project: The origin of high-energy neutrinos 
 We proposed 
 
 * IceCube-170922A
+We show
 
 * IceCube-191001A
+We show
 
 ### Project: The origin of VHE gamma-rays
 We proposed 
