@@ -32,7 +32,7 @@ Collaborations
 Professional service 
 ======
 * Peer review referee for Astrophysical Journal, 2020 - present
-* Peer review referee for Astrophysical Journal
+* Peer review referee for Monthly Notices of the Royal Astronomical Society, 2020 - present
 
 Software and Skills
 ======
