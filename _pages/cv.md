@@ -29,6 +29,15 @@ Collaborations
 ======
 * Member, Giant Radio Array for Neutrino Detection (GRAND) Collaboration, 2017 - present
 
+Professional service 
+======
+* Peer review referee for Astrophysical Journal, 2020 - present
+* Peer review referee for Astrophysical Journal
+
+Software and Skills
+======
+* Programming: C++, Python
+*  
 
 Publications
 ======
