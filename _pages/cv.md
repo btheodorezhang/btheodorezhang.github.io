@@ -16,9 +16,9 @@ Education
 
 Work experience
 ======
-* 2019 - : Postdoctoral Researcher
+* Postdoctoral Research Scholar, 2019 - 
   * The Pennsylvania State University
-  * Supervisor: Prof. Kohta Murase, Prof. Miguel Mostafa 
+  * Department of Physics, Institute for Gravitation & the Cosmos (IGC) 
 
 Skills
 ======
