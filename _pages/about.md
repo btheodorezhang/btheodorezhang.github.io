@@ -21,7 +21,7 @@ I am also working for the GRAND300 project, and I will contribute to the design 
 ## Theory
 ------
 
-### Project: The origin and composition of UHECRs 
+### The origin and composition of UHECRs 
 
 Possible source candidates:
 * Low-luminosity gamma-ray bursts
@@ -32,17 +32,17 @@ Possible source candidates:
 
 * Radio galaxies
 
-### Project: The origin of high-energy neutrinos 
+### The origin of high-energy neutrinos 
 
 * The correlation between IceCube-170922A and TXS 0506+056
-  * We show
+  * 
 
 * The correlation between IceCube-191001A and TDE AT2019dsg
-  * We show
+  * 
 
-### Project: The origin of VHE gamma-rays
-We proposed 
+### The origin of VHE gamma-rays
 
-## Experiment
+
+## GRAND300 project
 ------
 I am a member of [The Giant Radio Array for Neutrino Detection (GRAND)](https://grand.cnrs.fr)
