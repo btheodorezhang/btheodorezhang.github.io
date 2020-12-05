@@ -16,10 +16,13 @@ My research
 
 <!--![btz](https://btheodorezhang.github.io/files/Multi_messenger_propagation.pdf)-->
 <img style="float: right;" src = "https://btheodorezhang.github.io/files/Multi_messenger_propagation.pdf">
-My current research interests are on multi-messenger astrophysics, especially on ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos, and very-high-energy (VHE) gamma-rays.
 
-I am also working for the GRAND300 project, especially contribute to the design of a conventional ground array (i.e., array of water-Cherenkov detectors) for hybrid detection of the extensive air showers. 
-![btz](https://btheodorezhang.github.io/files/grand_det_principle.pdf)
+My current research interests are on multi-messenger astrophysics, especially on the origin of ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos, and very-high-energy (VHE) gamma-rays.
+
+<!--![btz](https://btheodorezhang.github.io/files/grand_det_principle.pdf)-->
+<img style="float: right;" src = "https://btheodorezhang.github.io/files/grand_det_principle.pdf">
+
+I am also interested in Experiments. I am working for the GRAND300 project on the design of a conventional ground array (i.e., array of water-Cherenkov detectors) for hybrid detection of the extensive air showers. 
 
 ## Theory
 ------
