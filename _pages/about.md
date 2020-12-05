@@ -34,7 +34,7 @@ Latest Research
 ======
 
 ## The origin of UHECR nuclei from Low-luminosity Gamma-ray bursts ([arXiV: 1712.09984](https://arxiv.org/abs/1712.09984))
-![alt text](ZMKHM2018_research.png)
+![alt text](https://btheodorezhang.github.io/files/ZMKHM2018_research.png)
 
 We suggest that the low-luminosity (LL) gamma-ray bursts (GRBs) can be the sources of UHECR nuclei. LL GRBs are a subclass of GRBs which have lower luminosity ($L_\gamma \leq 10^{49}\rm~erg~s^{-1}$) and higher event rate ($\sim 300 \rm~Gpc~yr^{-1}$) compared to the classical high-luminosity (HL) GRBs. 
 As have been shown in the left panel of the figure, the nuclear component in the interior of the progenitors can be loaded into the relativistic outflow.
