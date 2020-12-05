@@ -24,7 +24,7 @@ My current research interests are on multi-messenger astrophysics, especially on
 
 <!--![btz](https://btheodorezhang.github.io/files/grand_det_principle.pdf)-->
 <img align="right" width="400" height="100" src = "https://btheodorezhang.github.io/files/grand_det_principle.pdf">
-I am also interested in Experiments. I am working for the GRAND300 project on the design of a conventional ground array (i.e., array of water-Cherenkov detectors) for hybrid detection of the extensive air showers. 
+I am also interested in Experiments. I am a member of [The Giant Radio Array for Neutrino Detection (GRAND)](https://grand.cnrs.fr). I am working for the GRAND300 project on the design of a conventional ground array (i.e., array of water-Cherenkov detectors) for hybrid detection of the extensive air showers. 
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -60,4 +60,3 @@ Source candidates:
 
 ## Experimental works related to GRAND300 project
 ------
-I am a member of [The Giant Radio Array for Neutrino Detection (GRAND)](https://grand.cnrs.fr)
