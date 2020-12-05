@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "GRAND300 project"
-permalink: /GRAND300/
+permalink: /blog/
+title: "Blog posts"
 author_profile: true
 ---
 
