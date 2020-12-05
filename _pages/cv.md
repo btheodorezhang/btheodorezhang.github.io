@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please click [here](https://btheodorezhang.github.io/files/Curriculum_Vitae.pdf) to see the full CV in pdf format.
+Please click [here](http://btheodorezhang.github.io/files/Curriculum_Vitae.pdf) to see the full CV in pdf format.
 
 ## APPOINTMENTS
 ======
