@@ -15,20 +15,17 @@ Research interests
 ======
 
 My current research interests are on multi-messenger astrophysics, especially on the origin of ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos and very-high-energy (VHE) gamma-rays. 
-<p>See <a href="https://btheodorezhang.github.io/Research/" target="_self">research</a> to learn more!</p> 
+<p>See <a href="https://btheodorezhang.github.io/Research/" target="_self">Research</a> to learn more!</p> 
 ![btz](https://btheodorezhang.github.io/files/Multi-messenger.jpeg)
 <!--img align="right" width="500" height="80" src = "https://btheodorezhang.github.io/files/Multi-messenger.jpeg"-->
 
 <p>&nbsp;</p>
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 
 I am also interested in experiments. I am a member of [The Giant Radio Array for Neutrino Detection (GRAND)](https://grand.cnrs.fr). I am working for the GRAND300 project on the design of a conventional ground array (i.e., array of water-Cherenkov detectors) for hybrid detection of the extensive air showers. 
+<p>See <a href="https://btheodorezhang.github.io/GRAND300/" target="_self">GRAND300</a> to learn more!</p> 
 ![btz](https://btheodorezhang.github.io/files/grand_det_principle.pdf)
 <!--img align="right" width="500" height="80" src = "https://btheodorezhang.github.io/files/grand_det_principle.pdf"-->
 
-<p>&nbsp;</p>
-<p>&nbsp;</p>
 <p>&nbsp;</p>
 
 Latest Research
