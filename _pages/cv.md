@@ -9,7 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
-Work experience
+Please click [here](files/Curriculum_Vitae.pdf) to see the full CV in pdf format.
+
+APPOINTMENTS
 ======
 * Postdoctoral Research Scholar, 2019 - 
   * The Pennsylvania State University
@@ -19,7 +21,6 @@ Education
 ======
 * Ph.D in Astrophysics, Peking University, China, 2019
 * B.S. in Applied Physics, Harbin Institute of Technology, China, 2013
-
 
 Awards and distinctions
 ======
