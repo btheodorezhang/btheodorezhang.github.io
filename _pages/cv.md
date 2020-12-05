@@ -39,16 +39,17 @@ Professional service
 Software and Skills
 ======
 * Programming: C++, Python
-* Familiar with CRPropa, SOPHIA, CORSIKA, AIRES, The Offline framework for Auger observatory
+* Software: AMES
+* External software: with CRPropa, SOPHIA, CORSIKA, AIRES, The Offline framework for Auger observatory
 
-Selected Publications
+<!--Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+-->
   
-  
-Service and leadership
+Service
 ======
 * Peer review referee for Astrophysical Journal, 2020 - present
 * Peer review referee for Monthly Notices of the Royal Astronomical Society, 2020 - present
