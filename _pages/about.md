@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Bing Theodore Zhang, and my Chinese name is 张兵. I am currently a Postdoctoral Research Scholar at the Department of Physics and Institute for Gravitation & the Cosmos (IGC) at the Pennsylvania State University.
+My name is Bing Theodore Zhang. I am currently a Postdoctoral Research Scholar at the Department of Physics and Institute for Gravitation & the Cosmos (IGC) at the Pennsylvania State University.
 
 My research 
 ======
