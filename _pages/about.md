@@ -35,11 +35,9 @@ Possible source candidates:
 
 ### The origin of high-energy neutrinos 
 
-* The correlation between IceCube-170922A and TXS 0506+056
-  * 
+* TXS 0506+056: IceCube-170922A
 
-* The correlation between IceCube-191001A and TDE AT2019dsg
-  * 
+* TDE AT2019dsg: IceCube-191001A
 
 ### The origin of VHE gamma-rays
 
@@ -47,3 +45,4 @@ Possible source candidates:
 ## GRAND300 project
 ------
 I am a member of [The Giant Radio Array for Neutrino Detection (GRAND)](https://grand.cnrs.fr)
+![btz](https://btheodorezhang.github.io/files/grand_det_principle.pdf)
