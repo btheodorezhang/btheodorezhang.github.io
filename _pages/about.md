@@ -15,7 +15,7 @@ Research interests
 ======
 
 <!--![btz](https://btheodorezhang.github.io/files/Multi_messenger_propagation.pdf){: style="float: left"}-->
-<img align="right" width="400" height="200" src = "https://btheodorezhang.github.io/files/Multi_messenger_propagation.pdf">
+<img align="right" width="500" height="200" src = "https://btheodorezhang.github.io/files/Multi_messenger_propagation.pdf">
 
 My current research interests are on multi-messenger astrophysics, especially on the origin of ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos, and very-high-energy (VHE) gamma-rays.
 
@@ -23,7 +23,7 @@ My current research interests are on multi-messenger astrophysics, especially on
 
 
 <!--![btz](https://btheodorezhang.github.io/files/grand_det_principle.pdf)-->
-<img align="right" width="400" height="200" src = "https://btheodorezhang.github.io/files/grand_det_principle.pdf">
+<img align="right" width="500" height="200" src = "https://btheodorezhang.github.io/files/grand_det_principle.pdf">
 
 
 
