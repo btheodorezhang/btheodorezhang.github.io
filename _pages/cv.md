@@ -11,32 +11,32 @@ redirect_from:
 
 Please click [here](files/Curriculum_Vitae.pdf) to see the full CV in pdf format.
 
-APPOINTMENTS
+# APPOINTMENTS
 ======
 * Postdoctoral Research Scholar, 2019 - 
   * The Pennsylvania State University
   * Department of Physics, Institute for Gravitation & the Cosmos (IGC) 
 
-Education
+# Education
 ======
 * Ph.D in Astrophysics, Peking University, China, 2019
 * B.S. in Applied Physics, Harbin Institute of Technology, China, 2013
 
-Awards and distinctions
+# Awards and distinctions
 ======
 * Outstanding Doctoral Thesis, Peking University, 2019
 * China Scholarships Council Fellowship, 2016 - 2017
 
-Collaborations
+# Collaborations
 ======
 * Member, Giant Radio Array for Neutrino Detection (GRAND) Collaboration, 2017 - present
 
-Professional service 
+# Professional service 
 ======
 * Peer review referee for Astrophysical Journal, 2020 - present
 * Peer review referee for Monthly Notices of the Royal Astronomical Society, 2020 - present
 
-Software and Skills
+# Software and Skills
 ======
 * Programming: C++, Python
 * Software: AMES
@@ -49,7 +49,7 @@ Software and Skills
   {% endfor %}</ul>
 -->
   
-Service
+# Service
 ======
 * Peer review referee for Astrophysical Journal, 2020 - present
 * Peer review referee for Monthly Notices of the Royal Astronomical Society, 2020 - present
