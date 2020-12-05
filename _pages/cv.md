@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-Please click [here](files/Curriculum_Vitae.pdf) to see the full CV in pdf format.
+Please click [here]("https://btheodorezhang.github.io/files/Curriculum_Vitae.pdf") to see the full CV in pdf format.
 
 ## APPOINTMENTS
 ======
@@ -22,25 +22,20 @@ Please click [here](files/Curriculum_Vitae.pdf) to see the full CV in pdf format
 * Ph.D in Astrophysics, Peking University, China, 2019
 * B.S. in Applied Physics, Harbin Institute of Technology, China, 2013
 
-## Awards and distinctions
-======
-* Outstanding Doctoral Thesis, Peking University, 2019
-* China Scholarships Council Fellowship, 2016 - 2017
-
 ## Collaborations
 ======
 * Member, Giant Radio Array for Neutrino Detection (GRAND) Collaboration, 2017 - present
-
-## Professional service 
-======
-* Peer review referee for Astrophysical Journal, 2020 - present
-* Peer review referee for Monthly Notices of the Royal Astronomical Society, 2020 - present
 
 ## Software and Skills
 ======
 * Programming: C++, Python
 * Software: AMES
 * External software: with CRPropa, SOPHIA, CORSIKA, AIRES, The Offline framework for Auger observatory
+
+## Awards and distinctions
+======
+* Outstanding Doctoral Thesis, Peking University, 2019
+* China Scholarships Council Fellowship, 2016 - 2017
 
 <!--Selected Publications
 ======
@@ -49,7 +44,7 @@ Please click [here](files/Curriculum_Vitae.pdf) to see the full CV in pdf format
   {% endfor %}</ul>
 -->
   
-## Service
+## Professional Service
 ======
 * Peer review referee for Astrophysical Journal, 2020 - present
 * Peer review referee for Monthly Notices of the Royal Astronomical Society, 2020 - present
