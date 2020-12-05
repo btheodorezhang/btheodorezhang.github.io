@@ -16,7 +16,7 @@ Research interests
 
 <!--![btz](https://btheodorezhang.github.io/files/Multi_messenger_propagation.pdf){: style="float: left"}-->
 <img align="right" width="400" height="100" src = "https://btheodorezhang.github.io/files/Multi_messenger_propagation.pdf">
-My research interests are on multi-messenger astrophysics, especially on the origin of ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos and very-high-energy (VHE) gamma-rays.
+My current research interests are on multi-messenger astrophysics, especially on the origin of ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos and very-high-energy (VHE) gamma-rays.
 
 <p>&nbsp;</p>
 <p>&nbsp;</p>
@@ -30,33 +30,13 @@ I am also interested in experiments. I am a member of [The Giant Radio Array for
 <p>&nbsp;</p>
 <p>&nbsp;</p>
 
-Research Highlight
+Latest Research
 ======
 
-## Theoretical works related to multi-messenger astrophysics
-------
+## The origin of UHECR nuclei from Low-luminosity Gamma-ray bursts ([arXiV: 1712.09984](https://arxiv.org/abs/1712.09984))
+![alt text](ZMKHM2018_research.png)
 
-### The origin and composition of UHECRs 
-
-Source candidates:
-* Low-luminosity gamma-ray bursts
-  * Advantage:
-  * Challenge:
-
-* Engine-driven supernova
-
-* Tidal disruption events
-
-* Radio galaxies
-
-### The origin of high-energy neutrinos 
-
-* TXS 0506+056: IceCube-170922A
-
-* TDE AT2019dsg: IceCube-191001A
-
-### The origin of VHE gamma-rays
-
-
-## Experimental works related to GRAND300 project
-------
+We suggest that the low-luminosity (LL) gamma-ray bursts (GRBs) can be the sources of UHECR nuclei. LL GRBs are a subclass of GRBs which have lower luminosity ($L_\gamma \leq 10^{49}\rm~erg~s^{-1}$) and higher event rate ($\sim 300 \rm~Gpc~yr^{-1}$) compared to the classical high-luminosity (HL) GRBs. 
+As have been shown in the left panel of the figure, the nuclear component in the interior of the progenitors can be loaded into the relativistic outflow.
+We found that the intrajet nuclear component can be divided into two groups depending on the mass fraction of Silicon nuclei, Si-free and Si-rich. In addition, we also consider the hypernova ejecta composition under the case that the jet maybe launched later than the hypernova. 
+We found the Si-rich model or hypernova ejecta model can match the Auger data well, while the Si-free models have more difficulty in fitting the spectrum, as we have shown in the right panel of the figure for nuclear composition model Si-R 2.
