@@ -16,11 +16,11 @@ My research
 
 My current research interests are on multi-messenger astrophysics, especially on ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos, and very-high-energy (VHE) gamma-rays.
 
-I am also working for the GRAND300 project, and I will contribute to the design of a conventional ground array (i.e., array of water-Cherenkov detectors) for hybrid detection of the extensive air showers. 
+I am also working for the GRAND300 project, especially contribute to the design of a conventional ground array (i.e., array of water-Cherenkov detectors) for hybrid detection of the extensive air showers. 
 
 ## Theory
 ------
-![btz]("https://btheodorezhang.github.io/files/Multi_messenger_propagation.pdf")
+![btz](https://btheodorezhang.github.io/files/Multi_messenger_propagation.pdf)
 
 ### The origin and composition of UHECRs 
 
