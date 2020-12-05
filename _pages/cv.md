@@ -9,16 +9,17 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* Ph.D in Astrophysics, Peking University, China, 2019
-* B.S. in Applied Physics, Harbin Institute of Technology, China, 2013
-
 Work experience
 ======
 * Postdoctoral Research Scholar, 2019 - 
   * The Pennsylvania State University
   * Department of Physics, Institute for Gravitation & the Cosmos (IGC) 
+
+Education
+======
+* Ph.D in Astrophysics, Peking University, China, 2019
+* B.S. in Applied Physics, Harbin Institute of Technology, China, 2013
+
 
 Awards and distinctions
 ======
@@ -37,9 +38,9 @@ Professional service
 Software and Skills
 ======
 * Programming: C++, Python
-*  
+* Familiar with CRPropa, SOPHIA, CORSIKA, AIRES, The Offline framework for Auger observatory
 
-Publications
+Selected Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
@@ -51,12 +52,9 @@ Talks
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Peer review referee for Astrophysical Journal, 2020 - present
+* Peer review referee for Monthly Notices of the Royal Astronomical Society, 2020 - present
+* Organizing IGC weekly Journal Club, 2020 - present
