@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 {% include base_path %}
-## The origin of ultra-high-energy(UHE) cosmic rays
+## The origin of ultra-high-energy cosmic rays
 ------
 
 ## The origin of high-energy neutrinos
