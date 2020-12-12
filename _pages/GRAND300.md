@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "GRAND300 project"
-permalink: /GRANDProto300/
+title: "GRANDProto300"
+permalink: /GRAND300/
 author_profile: false
 ---
 
