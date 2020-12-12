@@ -16,7 +16,7 @@ Research interests
 
 My research interests are on multi-messenger astrophysics, especially on the origin of ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos and very-high-energy (VHE) gamma-rays. 
 <p>See <a href="https://btheodorezhang.github.io/Research/" target="_self">Research</a> to learn more!</p> 
-![btz](https://btheodorezhang.github.io/files/Multi-messenger.jpeg)
+![btz](https://btheodorezhang.github.io/files/Multi-messenger.pdf)
 <!--img align="right" width="500" height="80" src = "https://btheodorezhang.github.io/files/Multi-messenger.jpeg"-->
 
 <p>&nbsp;</p>
