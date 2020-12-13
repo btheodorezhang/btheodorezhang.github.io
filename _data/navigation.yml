@@ -12,6 +12,9 @@ main:
   - title: "GRANDProto300"
     url: /GRANDProto300/    
         
+  - title: "Resource"
+    url: /resource/
+
   - title: "Blog Posts"
     url: /blog/
     
