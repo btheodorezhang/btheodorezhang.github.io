@@ -22,21 +22,21 @@ Research summary
 
 ## What is the origin of UHECRs detected by Pierre Auger observatory and Telescope Array?
 
-  ### Background
+### Background
 
-      Cosmic rays with energy larger than 1 EeV are referred to as UHECRs, and their origin is a long-standing unresolved problem in astroparticle physics. Recent data sets from the Auger observatory and Telescope Array have shown that the primary mass of UHECRs is dominated by a light composition at an energy of around 2 EeV, and then becomes gradually heavier with increasing energy up to 40 EeV. The mass composition of UHECR nuclei is crucial for us to test the theories concerning the origin of UHECRs.
+Cosmic rays with energy larger than 1 EeV are referred to as UHECRs, and their origin is a long-standing unresolved problem in astroparticle physics. Recent data sets from the Auger observatory and Telescope Array have shown that the primary mass of UHECRs is dominated by a light composition at an energy of around 2 EeV, and then becomes gradually heavier with increasing energy up to 40 EeV. The mass composition of UHECR nuclei is crucial for us to test the theories concerning the origin of UHECRs.
 
-  ### Results 
+### Results 
 
-        Tidal disruption events (TDEs): Our predictions show that UHECR nuclei can be produced and survive at external reverse shock, forward shock, and disk winds for Swift J1644+57 jetted-like TDEs. We find that the tidal disruption of main sequence stars or carbon-oxygen white dwarfs does not successfully reproduce UHECR observations, but oxygen-neon-magnesium white dwarfs can give a better explanation to observations even though they are rare. (1706.00391, lead author)
+Tidal disruption events (TDEs): Our predictions show that UHECR nuclei can be produced and survive at external reverse shock, forward shock, and disk winds for Swift J1644+57 jetted-like TDEs. We find that the tidal disruption of main sequence stars or carbon-oxygen white dwarfs does not successfully reproduce UHECR observations, but oxygen-neon-magnesium white dwarfs can give a better explanation to observations even though they are rare. (1706.00391, lead author)
 
-	Gamma-ray bursts (GRBs): We demonstrate low-luminosity GRBs can act as the sources of UHECRs and give new predictions based on the intrajet nuclear composition models considering progenitor dependencies. (1712.09984, lead author)
+Gamma-ray bursts (GRBs): We demonstrate low-luminosity GRBs can act as the sources of UHECRs and give new predictions based on the intrajet nuclear composition models considering progenitor dependencies. (1712.09984, lead author)
 
-        Engine-driven supernova: We show that engine-driven supernova can explain the observed UHECR spectrum in the external reverse shock scenario if their local rate is ~1 percent of core-collapse supernova rate. (1812.10289, lead author)
+Engine-driven supernova: We show that engine-driven supernova can explain the observed UHECR spectrum in the external reverse shock scenario if their local rate is ~1 percent of core-collapse supernova rate. (1812.10289, lead author)
 
-        Energetics of UHECR nuclei: We find the resulting UHECR energy generation rate density to be ~ (0.2 - 2) * 1E44 erg per cubic mega-parsec per year with a nontrivial dependence on the spectral index. (2012.03122, second main co-author)
+Energetics of UHECR nuclei: We find the resulting UHECR energy generation rate density to be ~ (0.2 - 2) * 1E44 erg per cubic mega-parsec per year with a nontrivial dependence on the spectral index. (2012.03122, second main co-author)
 
-	Radio galaxy: We found that the UHECR spectrum and composition can be reasonable explained with shear reacceleration mechanism assuming a certain fraction of galactic cosmic rays in a halo is entrained. (1705.05027, third co-author)
+Radio galaxy: We found that the UHECR spectrum and composition can be reasonable explained with shear reacceleration mechanism assuming a certain fraction of galactic cosmic rays in a halo is entrained. (1705.05027, third co-author)
 
 
 <!--
