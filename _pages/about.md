@@ -72,7 +72,7 @@ The MAGIC and H.E.S.S. collaboration have reported the detection of TeV photons 
 
 With the beginning of the new era of multi-messenger particle astrophysics, we may have chance to detect gravitational waves, electromagnetic radiation from radio to TeV band, high-energy neutrinos, and even UHECRs from astrophysical high-energy sources simultaneously. 
 
-###Results
+### Results
 
 We developed numerical code to calculate non-thermal emissions from GRBs and other astrophysical environments, which aimed to be publicly available in the near future after including the hadronic processes. (*2012.07796, lead author*)
 
