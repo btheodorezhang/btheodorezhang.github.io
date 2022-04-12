@@ -2,7 +2,7 @@
 layout: archive
 title: "GRANDProto300"
 permalink: /GRANDProto300/
-author_profile: false
+author_profile: false 
 ---
 
 {% include base_path %}
