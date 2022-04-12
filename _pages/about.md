@@ -28,15 +28,15 @@ Cosmic rays with energy larger than 1 EeV are referred to as UHECRs, and their o
 
 ### Results 
 
-Tidal disruption events (TDEs): Our predictions show that UHECR nuclei can be produced and survive at external reverse shock, forward shock, and disk winds for Swift J1644+57 jetted-like TDEs. We find that the tidal disruption of main sequence stars or carbon-oxygen white dwarfs does not successfully reproduce UHECR observations, but oxygen-neon-magnesium white dwarfs can give a better explanation to observations even though they are rare. (1706.00391, lead author)
+**Tidal disruption events (TDEs)**: Our predictions show that UHECR nuclei can be produced and survive at external reverse shock, forward shock, and disk winds for Swift J1644+57 jetted-like TDEs. We find that the tidal disruption of main sequence stars or carbon-oxygen white dwarfs does not successfully reproduce UHECR observations, but oxygen-neon-magnesium white dwarfs can give a better explanation to observations even though they are rare. (*1706.00391, lead author*)
 
-Gamma-ray bursts (GRBs): We demonstrate low-luminosity GRBs can act as the sources of UHECRs and give new predictions based on the intrajet nuclear composition models considering progenitor dependencies. (1712.09984, lead author)
+**Gamma-ray bursts (GRBs)**: We demonstrate low-luminosity GRBs can act as the sources of UHECRs and give new predictions based on the intrajet nuclear composition models considering progenitor dependencies. (*1712.09984, lead author*)
 
-Engine-driven supernova: We show that engine-driven supernova can explain the observed UHECR spectrum in the external reverse shock scenario if their local rate is ~1 percent of core-collapse supernova rate. (1812.10289, lead author)
+**Engine-driven supernova**: We show that engine-driven supernova can explain the observed UHECR spectrum in the external reverse shock scenario if their local rate is ~1 percent of core-collapse supernova rate. (1812.10289, lead author)
 
-Energetics of UHECR nuclei: We find the resulting UHECR energy generation rate density to be ~ (0.2 - 2) * 1E44 erg per cubic mega-parsec per year with a nontrivial dependence on the spectral index. (2012.03122, second main co-author)
+**Energetics of UHECR nuclei**: We find the resulting UHECR energy generation rate density to be ~ (0.2 - 2) * 1E44 erg per cubic mega-parsec per year with a nontrivial dependence on the spectral index. (2012.03122, second main co-author)
 
-Radio galaxy: We found that the UHECR spectrum and composition can be reasonable explained with shear reacceleration mechanism assuming a certain fraction of galactic cosmic rays in a halo is entrained. (1705.05027, third co-author)
+**Radio galaxy**: We found that the UHECR spectrum and composition can be reasonable explained with shear reacceleration mechanism assuming a certain fraction of galactic cosmic rays in a halo is entrained. (1705.05027, third co-author)
 
 ## What is the origin of high-energy neutrinos detected by IceCube observatory?
 
@@ -46,13 +46,13 @@ The IceCube Collaboration reported the first detection of an ~3.5 sigma excess o
 
 ### Results
 
-IceCube170922A - TXS 0506+57: We demonstrate that the neutral beam model provides an explanation for the 2014-2015 neutrino excess without violating X-ray and gamma-ray constraints and yields results consistent with the detection of one high-energy neutrino during the 2017 flare. (1910.11464, lead author)
+**IceCube170922A - TXS 0506+57**: We demonstrate that the neutral beam model provides an explanation for the 2014-2015 neutrino excess without violating X-ray and gamma-ray constraints and yields results consistent with the detection of one high-energy neutrino during the 2017 flare. (1910.11464, lead author)
 
-IceCube191001A – AT2019dsg: We found that the most optimistic cases of the corona and hidden wind models could be consistent with the observation of IceCube-191001A. (2005.08937, third main co-author)
+**IceCube191001A – AT2019dsg**: We found that the most optimistic cases of the corona and hidden wind models could be consistent with the observation of IceCube-191001A. (2005.08937, third main co-author)
 
-IceCube200530A – AT2019fdr: We showed that the expected number of neutrinos from sub-relativistic wind is lower than what have been observed, and higher cosmic ray luminosity are required. (2111.09390, one of the authors)
+**IceCube200530A – AT2019fdr**: We showed that the expected number of neutrinos from sub-relativistic wind is lower than what have been observed, and higher cosmic ray luminosity are required. (2111.09390, one of the authors)
 
-Blazars as the sources of PeV neutrinos: We found that the cumulative PeV neutrino flux contributed by all-sky blazars is a fraction < (10% ~ 50%) of the IceCube detected flux. (1607.02211, lead author)
+**Blazars as the sources of PeV neutrinos**: We found that the cumulative PeV neutrino flux contributed by all-sky blazars is a fraction < (10% ~ 50%) of the IceCube detected flux. (1607.02211, lead author)
 
 ## What is the origin of very-high-energy gamma-rays detected by H.E.S.S.? 
 
@@ -62,9 +62,9 @@ The MAGIC and H.E.S.S. collaboration have reported the detection of TeV photons 
 
 ### Results
 
-GRB 190829A – H.E.S.S.: We show that the TeV photons during the H.E.S.S. observation time is naturally produced in the external inverse-Compton scenario, where seed photons supplied by the flares or other late-time dissipations. (2012.07796, lead author)
+**GRB 190829A – H.E.S.S.**: We show that the TeV photons during the H.E.S.S. observation time is naturally produced in the external inverse-Compton scenario, where seed photons supplied by the flares or other late-time dissipations. (2012.07796, lead author)
 
-GRB 160821B – MAGIC: We found that the up-scattering of the extended and plateau emission from activities of a long-lasting central engine by forward shock high-energy electrons is consistent with the MAGIC observations. (2012.09143, lead author)
+**GRB 160821B – MAGIC**: We found that the up-scattering of the extended and plateau emission from activities of a long-lasting central engine by forward shock high-energy electrons is consistent with the MAGIC observations. (2012.09143, lead author)
 
 ## Numerical code for calculating the high-energy emissions from various astrophysical sources.
 
