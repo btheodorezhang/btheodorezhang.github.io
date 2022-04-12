@@ -11,6 +11,7 @@ redirect_from:
 
 Please click [here](http://btheodorezhang.github.io/files/Curriculum_Vitae.pdf) to see the full CV in pdf format.
 
+<!--
 ## APPOINTMENTS
 ======
 * Postdoctoral Research Scholar, 2019 - 
@@ -36,6 +37,7 @@ Please click [here](http://btheodorezhang.github.io/files/Curriculum_Vitae.pdf) 
 ======
 * Outstanding Doctoral Thesis, Peking University, 2019
 * China Scholarships Council Fellowship, 2016 - 2017
+-->
 
 <!--Selected Publications
 ======
@@ -43,9 +45,11 @@ Please click [here](http://btheodorezhang.github.io/files/Curriculum_Vitae.pdf) 
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 -->
-  
+<!--
 ## Professional Service
 ======
 * Peer review referee for Astrophysical Journal, 2020 - present
 * Peer review referee for Monthly Notices of the Royal Astronomical Society, 2020 - present
 * Organizing IGC weekly Journal Club, 2020 - present
+-->
+
