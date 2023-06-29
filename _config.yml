@@ -86,7 +86,7 @@ author:
   location         : "Kyoto, Japan"
   employer         : "YITP, Kyoto U"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?hl=en&user=36wNZ8MAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "bing.zhang@yukawa.kyoto-u.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
