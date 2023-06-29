@@ -84,9 +84,9 @@ author:
   avatar           : "profile.png"
   bio              : "My chinese name is 张兵, Bing Zhang. I was born in Shanxi, China"
   location         : "Kyoto, Japan"
-  employer         : "YITP"
+  employer         : "YITP, Kyoto U"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
+  googlescholar    : "http://yourfullgooglescholarurl.com"
   email            : "bing.zhang@yukawa.kyoto-u.ac.jp"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
