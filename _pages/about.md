@@ -22,7 +22,7 @@ Research summary
 <table>
   <tr>
     <td>
-      ![Your Image Description]("https://btheodorezhang.github.io/files/UHECR_spectrum.png")
+      ![Your Image Description](https://btheodorezhang.github.io/files/UHECR_spectrum.png)
     </td>
     <td>
       Your text goes here. You can write as much as you want. The text will be aligned to the right of the image.
