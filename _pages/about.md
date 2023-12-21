@@ -23,7 +23,7 @@ Latest featured research
 ![Your Image Description](https://btheodorezhang.github.io/files/GRB221009A_TeV.png)
 #The origin of very-high-energy gamma-rays from GRB 221009A: implications for reverse shock proton synchrotron emission ([arXiV: 2311.13671](https://arxiv.org/abs/2311.13671))
 
-Research summary
+Conference and seminar
 ======
 
 <!--
