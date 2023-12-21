@@ -11,12 +11,10 @@ redirect_from:
 
 My name is Bing Theodore Zhang (张兵). I am currently a Research Assistant Professor at Yukawa Institute for Theoretical Physics, Kyoto University.
 
-Research interests
-======
+My research interests lie at the intersection of high-energy astrophysics and particle physics, especially on the origin and propagation of ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos, and high-energy gamma-rays, as well as related topics about the high energy astrophysical phenomenen in the universe. 
+
 
 ![Your Image Description](https://btheodorezhang.github.io/files/Multimessenger.png)
-
-My research interests lie at the intersection of high-energy astrophysics and particle physics, especially on the origin and propagation of ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos, and high-energy gamma-rays, as well as related topics about the high energy astrophysical phenomenen in the universe. 
 
 
 Latest featured research
