@@ -17,11 +17,12 @@ Research interests
 My research interests lie at the intersection of high-energy astrophysics and particle physics, especially on the origin and propagation of ultra-high-energy cosmic rays (UHECRs), high-energy neutrinos, and high-energy gamma-rays, as well as related topics about the high energy astrophysical phenomenen in the universe. 
 
 
-Research summary
+Latest featured research
 ======
 
-![Your Image Description](https://btheodorezhang.github.io/files/UHECR_spectrum.png)
+![Your Image Description](https://btheodorezhang.github.io/files/GRB221009A_TeV.png)
 
+<!--
 ## What is the origin of UHECRs detected by Pierre Auger observatory and Telescope Array?
 
 ### Background
@@ -87,6 +88,7 @@ The Giant Radio Array for Neutrino Detection (GRAND) is a planned large-scale ob
 ### Results
 
 I take an active part in the design of a conventional ground array for hybrid detection of the extensive air showers for GRANDProto300 with detectors deployed over 300 km^2. (*1810.09994, one of the collaborators*)
+-->
 
 
 <!--
