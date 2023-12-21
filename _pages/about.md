@@ -26,7 +26,7 @@ My research primarily concentrates on these key areas:
 * Exploring Cosmic Ray Origins with Very-High-Energy (VHE) Gamma-Rays 
 
 
-* Exploring Cosmic Ray Origins with High-Energy Gamma-Rays
+* Exploring Cosmic Ray Origins with High-Energy Neutrinos
 
 
 * Gravitational Wave Events: Understanding Their Counterparts
