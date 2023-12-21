@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Bing Theodore Zhang (B. Theodore Zhang). I am currently a Research Assistant Professor at Yukawa Institute for Theoretical Physics (YITP), Kyoto University.
 
-My research concentrate on astroparticle physics and multimessenger astronomy. 
+My research focuses on astroparticle physics and multimessenger astronomy. 
 
 
 ![Your Image Description](https://btheodorezhang.github.io/files/Multimessenger.png)
