@@ -11,7 +11,7 @@ redirect_from:
 
 My name is Bing Theodore Zhang (B. Theodore Zhang). I am currently a Research Assistant Professor at Yukawa Institute for Theoretical Physics (YITP), Kyoto University.
 
-My research focuses on <mark>**astroparticle physics**</mark> and <mark>**multimessenger astronomy**</mark>. 
+My research focuses on __astroparticle physics__ and __multimessenger astronomy__. 
 
 
 ![Your Image Description](https://btheodorezhang.github.io/files/Multimessenger.png)
@@ -42,7 +42,7 @@ Latest featured research
 
 ![Your Image Description](https://btheodorezhang.github.io/files/GRB221009A_TeV.png)
 
-The origin of very-high-energy gamma-rays from GRB 221009A: implications for reverse shock proton synchrotron emission ([arXiv: 2311.13671](https://arxiv.org/abs/2311.13671))
+*The origin of very-high-energy gamma-rays from GRB 221009A: implications for reverse shock proton synchrotron emission* ([arXiv: 2311.13671](https://arxiv.org/abs/2311.13671))
 
 <!--
 ## What is the origin of UHECRs detected by Pierre Auger observatory and Telescope Array?
