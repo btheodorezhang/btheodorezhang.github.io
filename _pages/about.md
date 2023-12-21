@@ -16,6 +16,10 @@ My research focuses on astroparticle physics and multimessenger astronomy.
 
 ![Your Image Description](https://btheodorezhang.github.io/files/Multimessenger.png)
 
+
+My research primarily concentrates on these key areas
+======
+
 * Cosmic Rays: Origins, Spectrum, and Composition
 
 
@@ -39,9 +43,6 @@ Latest featured research
 ![Your Image Description](https://btheodorezhang.github.io/files/GRB221009A_TeV.png)
 
 The origin of very-high-energy gamma-rays from GRB 221009A: implications for reverse shock proton synchrotron emission ([arXiv: 2311.13671](https://arxiv.org/abs/2311.13671))
-
-Conference and seminar
-======
 
 <!--
 ## What is the origin of UHECRs detected by Pierre Auger observatory and Telescope Array?
