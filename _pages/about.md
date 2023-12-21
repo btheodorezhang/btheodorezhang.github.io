@@ -19,16 +19,8 @@ My research interests lie at the intersection of high-energy astrophysics and pa
 
 Research summary
 ======
-<table>
-  <tr>
-    <td>
-      ![Your Image Description](https://btheodorezhang.github.io/files/UHECR_spectrum.png)
-    </td>
-    <td>
-      Your text goes here. You can write as much as you want. The text will be aligned to the right of the image.
-    </td>
-  </tr>
-</table>
+
+![Your Image Description](https://btheodorezhang.github.io/files/UHECR_spectrum.png)
 
 ## What is the origin of UHECRs detected by Pierre Auger observatory and Telescope Array?
 
