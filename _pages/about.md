@@ -17,7 +17,7 @@ My research focuses on <mark>**astroparticle physics**</mark> and <mark>**multim
 ![Your Image Description](https://btheodorezhang.github.io/files/Multimessenger.png)
 
 
-My research primarily concentrates on these key areas
+My research primarily concentrates on these key areas:
 ======
 
 * Cosmic Rays: Origins, Spectrum, and Composition
@@ -38,7 +38,7 @@ My research primarily concentrates on these key areas
 
 
 Latest featured research
-======
+------
 
 ![Your Image Description](https://btheodorezhang.github.io/files/GRB221009A_TeV.png)
 
