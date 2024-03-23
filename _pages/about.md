@@ -43,10 +43,10 @@ Latest featured research
 ## The origin of UHECR nuclei from Low-luminosity Gamma-ray bursts ([arXiV: 1712.09984](https://arxiv.org/abs/1712.09984))
 ![alt text](https://btheodorezhang.github.io/files/ZMKHM2018_research.png)
 
-![Your Image Description](https://btheodorezhang.github.io/files/GRB221009A_TeV.png)
 
 ## VHE gamma-rays from GRB
 *The origin of very-high-energy gamma-rays from GRB 221009A: implications for reverse shock proton synchrotron emission* ([arXiv: 2311.13671](https://arxiv.org/abs/2311.13671))
+![Your Image Description](https://btheodorezhang.github.io/files/GRB221009A_TeV.png)
 
 <!--
 ## What is the origin of UHECRs detected by Pierre Auger observatory and Telescope Array?
