@@ -20,7 +20,7 @@ My research focuses on __astroparticle physics__ and __multimessenger astronomy_
 My research primarily concentrates on these key areas:
 ======
 
-* Cosmic Rays: Origins, Spectrum, and Composition
+* The Spectrum and Composition of Ultrahigh Energy Cosmic Rays
 
 
 * Exploring Cosmic Ray Origins with Very-High-Energy (VHE) Gamma-Rays 
@@ -40,8 +40,12 @@ My research primarily concentrates on these key areas:
 Latest featured research
 ------
 
+## The origin of UHECR nuclei from Low-luminosity Gamma-ray bursts ([arXiV: 1712.09984](https://arxiv.org/abs/1712.09984))
+![alt text](https://btheodorezhang.github.io/files/ZMKHM2018_research.png)
+
 ![Your Image Description](https://btheodorezhang.github.io/files/GRB221009A_TeV.png)
 
+## VHE gamma-rays from GRB
 *The origin of very-high-energy gamma-rays from GRB 221009A: implications for reverse shock proton synchrotron emission* ([arXiv: 2311.13671](https://arxiv.org/abs/2311.13671))
 
 <!--
