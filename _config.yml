@@ -83,11 +83,11 @@ author:
   name             : "Bing Theodore Zhang"
   avatar           : "profile.png"
   bio              : "My chinese name is 张兵, Bing Zhang. I was born in Shanxi, China"
-  location         : "Kyoto, Japan"
-  employer         : "YITP, Kyoto U"
+  location         : "Beijing, China"
+  employer         : "IHEP, CAS"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=36wNZ8MAAAAJ&view_op=list_works&sortby=pubdate"
-  email            : "bing.zhang@yukawa.kyoto-u.ac.jp"
+  email            : "zhangbing@ihep.ac.cn"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
