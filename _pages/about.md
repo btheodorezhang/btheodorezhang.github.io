@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 
-My name is Bing Theodore Zhang (B. Theodore Zhang). I am currently a Research Assistant Professor at Yukawa Institute for Theoretical Physics (YITP), Kyoto University.
+My name is Bing Theodore Zhang (B. Theodore Zhang). I am currently an associate Researcher at Institute of high-energy physics (IHEP), China.
 
 My research focuses on __astroparticle physics__ and __multimessenger astronomy__. 
 
