@@ -40,7 +40,7 @@ My research primarily concentrates on these key areas:
 Latest featured research
 ------
 
-## Ultraheavy Ultrahigh-Energy Cosmic Rays ([arXiV: 1712.09984](https://arxiv.org/abs/2405.17409))
+## Ultraheavy Ultrahigh-Energy Cosmic Rays ([arXiV: 2405.17409](https://arxiv.org/abs/2405.17409))
 ![alt text](https://btheodorezhang.github.io/files/UH-UHECR.png)
 
 
