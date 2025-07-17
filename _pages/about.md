@@ -40,6 +40,9 @@ My research primarily concentrates on these key areas:
 Latest featured research
 ------
 
+## Microquasar jet-cocoon systems as PeVatrons ([arXiV: 2506.20193](https://arxiv.org/abs/2506.20193))
+![alt text](https://btheodorezhang.github.io/files/all_CR_spectrum_bestfit.png)
+
 ## Ultraheavy Ultrahigh-Energy Cosmic Rays ([arXiV: 2405.17409](https://arxiv.org/abs/2405.17409))
 ![alt text](https://btheodorezhang.github.io/files/UH-UHECR.png)
 
