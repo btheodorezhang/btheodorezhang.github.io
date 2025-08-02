@@ -7,7 +7,9 @@ author_profile: false
 
 {% include base_path %}
 
+<!--
 # **Mini-Workshop: Source Models of Galactic Cosmic Rays**
+-->
 
 ![Cosmic Ray Workshop Banner](https://btheodorezhang.github.io/files/cosmic_ray_path.png)
 
@@ -18,9 +20,9 @@ Join us for an engaging **mini-workshop** exploring the origin and propagation o
 ## **Workshop Details**  
 **📅 Date:** August 15, 2025  
 **🕒 Time:** 14:00 – 19:00 (Beijing Time, UTC+8)  
-**📍 Location:** Lijiang Hotel, Lijiang, Yunnan, China  
+**📍 Location:** Lijiang Hotel, Lijiang, Yunnan
 **💻 Virtual Option:** [Zoom Link] (TBD)  
-**🎤 Organizers:** [Your Name], [Affiliation]  
+**🎤 Organizers:** [Bing Theodore Zhang], [Institute of High Energy Physics & Tianfu Cosmic Ray Center]  
 
 ---
 
@@ -30,7 +32,9 @@ This workshop is ideal for:
 - Graduate students and postdocs interested in **high-energy astrophysics**  
 - Observers and theorists working on **supernova remnants, pulsar wind nebulae, and Galactic sources**  
 
+<!--
 **Maximum participants:** 50 (Registration required)  
+-->
 
 ---
 
@@ -39,14 +43,14 @@ This workshop is ideal for:
 | Time          | Topic                          | Speaker       | Details  
 |---------------|--------------------------------|---------------|-----------------  
 | **13:30-14:00** | **Registration & Welcome**     | -             | Check-in and networking  
-| **14:00-14:30** | **Observational Constraints**  | Speaker A     | Latest results from gamma-ray and cosmic-ray experiments  
-| **14:30-15:00** | **Propagation Models**         | Speaker B     | Diffusion, reacceleration, and Galactic transport  
-| **15:00-15:30** | **Supernova Remnants (SNRs)**  | Speaker C     | Particle acceleration at shocks  
-| **15:30-16:00** | **HII Regions & Turbulence**   | Speaker D     | Role of massive star-forming regions  
+| **14:00-14:30** | **Observational Constraints**  | Wei Liu (刘伟）      | Latest results from gamma-ray and cosmic-ray experiments  
+| **14:30-15:00** | **Propagation Models**         | Gwenael Giacinti(贾鸿宇)     | Diffusion, reacceleration, and Galactic transport  
+| **15:00-15:30** | **Supernova Remnants (SNRs)**  | Houdong Zeng (曾厚敦）   | Particle acceleration at shocks  
+| **15:30-16:00** | **HII Regions & Turbulence**   | TBD     | Role of massive star-forming regions  
 | **16:00-16:30** | **Coffee Break**               | -             | Networking & discussions  
-| **16:30-17:00** | **Pulsar Wind Nebulae (PWNe)** | Speaker E     | Leptonic vs. hadronic contributions  
-| **17:00-17:30** | **Microquasars & Jets**        | Speaker F     | Alternative GCR sources  
-| **17:30-18:00** | **Connecting Low & High Energy** | Speaker G   | Multi-messenger perspectives  
+| **16:30-17:00** | **Pulsar Wind Nebulae (PWNe)** | Ruoyu Liu (柳若愚）     | Leptonic vs. hadronic contributions  
+| **17:00-17:30** | **Microquasars & Jets**        | Dimitry     | Alternative GCR sources  
+| **17:30-18:00** | **Connecting Low & High Energy** | Bing   | Multi-messenger perspectives  
 | **18:00-18:30** | **Open Discussion & Wrap-up**  | All           | Future directions & collaborations  
 
 ---
