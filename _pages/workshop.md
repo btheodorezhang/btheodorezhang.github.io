@@ -9,15 +9,15 @@ author_profile: false
 
 # Mini-Workshop: [Source models of Galactic Cosmic Rays]
 
-![Workshop Banner Image](optional-image-url.jpg)
+![Workshop Banner Image](cosmic_ray_path.png)
 
-Join us for an engaging mini-workshop on **[source models of Galactic cosmic rays]** designed to [origin of Galactic cosmic rays].
+Join us for an engaging mini-workshop on **source models of Galactic cosmic rays** designed to origin of Galactic cosmic rays.
 
 ## Workshop Details
 
-**Date:** [15], [August] [15], [2025]  
-**Time:** [14:00] - [19:00] ([Timezone])  
-**Location:** [Venue Name], [Room Number]  
+**Date:** 15, August, 2025  
+**Time:** 14:00 - 19:00 ([Beijing Time])  
+**Location:** Lijiang Hotel, Lijiang, Yunan 
 [Virtual Option:] [Online Platform Link] (if applicable)  
 **Facilitator:** [Name], [Title/Organization]  
 
@@ -32,16 +32,18 @@ Maximum participants: [Number] (Registration required)
 
 ## Workshop Agenda
 
-| Time          | Activity                          | Details                                  |
-|---------------|-----------------------------------|------------------------------------------|
-| [Time]        | **Registration & Welcome**        | Check-in and networking                  |
-| [Time]        | **Introduction**                  | Workshop objectives and expectations     |
-| [Time]        | **[Session 1 Title]**             | [Brief description of content]           |
-| [Time]        | **Hands-on Activity**             | [Description of interactive component]  |
-| [Time]        | **[Session 2 Title]**             | [Brief description of content]           |
-| [Time]        | **Q&A / Discussion**              | Open floor for questions                 |
-| [Time]        | **Wrap-up & Next Steps**          | Summary and resources                    |
-
+| Time          | Activity                          | Details                                  |      |
+|---------------|-----------------------------------|------------------------------------------|------|
+| 13:30-14:00   | **Registration & Welcome**        | Check-in and networking                  |      |
+| 14:00-14:30   | **Observation**                   | Check-in and networking                  |      |
+| 14:30-15:00   | **Propagation**                   | Workshop objectives and expectations     |      |
+| 15:00-15:30   | **SNR**                           | [Brief description of content]           |      |
+| 15:30-16:00   | **HII**                           | [Description of interactive component]   |      |
+| 16:00-16:30   | **Rest**                          | [Brief description of content]           |      |
+| 16:30-17:00   | **PWN**                           | Open floor for questions                 |      |
+| 17:00-17:30   | **Microquasar**                   | Microquasar                              |      |
+| 17:30-18:00   | **Transition**                    | Connection to low- and high-energy       |      |
+| 18:00-18:30   | **Wrap-up & Next Steps**          | Summary and Perspective                  |      |
 ## What to Bring
 
 - [Item 1] (e.g., Laptop, notebook)
