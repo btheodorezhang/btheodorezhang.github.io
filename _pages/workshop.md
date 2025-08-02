@@ -33,17 +33,24 @@ Maximum participants: [Number] (Registration required)
 ## Workshop Agenda
 
 | Time          | Activity                          | Details                                  |Name  
+|
 |---------------|-----------------------------------|------------------------------------------|------
-| 13:30-14:00   | **Registration & Welcome**        | Check-in and networking                  |      
-| 14:00-14:30   | **Observation**                   | Check-in and networking                  |      
-| 14:30-15:00   | **Propagation**                   | Workshop objectives and expectations     |      
-| 15:00-15:30   | **SNR**                           | [Brief description of content]           |      
-| 15:30-16:00   | **HII**                           | [Description of interactive component]   |      
-| 16:00-16:30   | **Rest**                          | [Brief description of content]           |      
-| 16:30-17:00   | **PWN**                           | Open floor for questions                 |      
-| 17:00-17:30   | **Microquasar**                   | Microquasar                              |      
-| 17:30-18:00   | **Transition**                    | Connection to low- and high-energy       |      
-| 18:00-18:30   | **Wrap-up & Next Steps**          | Summary and Perspective                  |      
+|
+| 13:30-14:00   | **Registration & Welcome**        | Check-in and networking                  |a      
+|
+| 14:00-14:30   | **Observation**                   | Check-in and networking                  |a     
+| 14:30-15:00   | **Propagation**                   | Workshop objectives and expectations     |a      
+|
+| 15:00-15:30   | **SNR**                           | [Brief description of content]           |a     
+| 15:30-16:00   | **HII**                           | [Description of interactive component]   |a     
+|
+| 16:00-16:30   | **Rest**                          | [Brief description of content]           |a     
+|
+| 16:30-17:00   | **PWN**                           | Open floor for questions                 |a     
+| 17:00-17:30   | **Microquasar**                   | Microquasar                              |a      
+| 17:30-18:00   | **Transition**                    | Connection to low- and high-energy       |a      
+|
+| 18:00-18:30   | **Wrap-up & Next Steps**          | Summary and Perspective                  |a      
 ## What to Bring
 
 - [Item 1] (e.g., Laptop, notebook)
