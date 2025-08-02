@@ -32,7 +32,7 @@ Maximum participants: [Number] (Registration required)
 
 ## Workshop Agenda
 
-| Time          | Activity                          | Details                                  |      |
+| Time          | Activity                          | Details                                  |Name  |
 |---------------|-----------------------------------|------------------------------------------|------|
 | 13:30-14:00   | **Registration & Welcome**        | Check-in and networking                  |      |
 | 14:00-14:30   | **Observation**                   | Check-in and networking                  |      |
