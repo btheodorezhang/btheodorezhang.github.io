@@ -1,22 +1,11 @@
 ---
 layout: archive
 title: "Research"
-permalink: /Research/
+permalink: /research/
 author_profile: false
 ---
 
 {% include base_path %}
 
-# Cosmic Rays: Origins, Spectrum, and Composition
+# Origin of Cosmic Rays and multi-messenger astronomy
 
-
-# Exploring Cosmic Ray Origins with Very-High-Energy (VHE) Gamma-Rays 
-
-
-# Exploring Cosmic Ray Origins with High-Energy Neutrinos
-
-
-# Gravitational Wave Events: Understanding Their Counterparts
-
-
-# Astrophysical Multimessenger Emission Simulator (AMES)
