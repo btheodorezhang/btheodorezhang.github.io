@@ -1,74 +1,73 @@
 ---
 layout: archive
-title: "Workshop"
+title: "Workshop: Source Models of Galactic Cosmic Rays"
 permalink: /workshop/
 author_profile: false
 ---
 
 {% include base_path %}
 
-# Mini-Workshop: [Source models of Galactic Cosmic Rays]
+# **Mini-Workshop: Source Models of Galactic Cosmic Rays**
 
-![Workshop Banner Image](https://btheodorezhang.github.io/files/cosmic_ray_path.png)
+![Cosmic Ray Workshop Banner](https://btheodorezhang.github.io/files/cosmic_ray_path.png)
 
-Join us for an engaging mini-workshop on **source models of Galactic cosmic rays** designed to origin of Galactic cosmic rays.
-
-## Workshop Details
-
-**Date:** 15, August, 2025  
-**Time:** 14:00 - 19:00 ([Beijing Time])  
-**Location:** Lijiang Hotel, Lijiang, Yunan 
-[Virtual Option:] [Online Platform Link] (if applicable)  
-**Facilitator:** [Name], [Title/Organization]  
-
-## Who Should Attend
-
-This workshop is ideal for:
-- [Target audience 1]
-- [Target audience 2]
-- [Target audience 3]
-
-Maximum participants: [Number] (Registration required)
-
-## Workshop Agenda
-
-| Time          | Activity                          | Details                                  |Name  
-|
-|---------------|-----------------------------------|------------------------------------------|------
-|
-| 13:30-14:00   | **Registration & Welcome**        | Check-in and networking                  |a      
-|
-| 14:00-14:30   | **Observation**                   | Check-in and networking                  |a     
-| 14:30-15:00   | **Propagation**                   | Workshop objectives and expectations     |a      
-|
-| 15:00-15:30   | **SNR**                           | [Brief description of content]           |a     
-| 15:30-16:00   | **HII**                           | [Description of interactive component]   |a     
-|
-| 16:00-16:30   | **Rest**                          | [Brief description of content]           |a     
-|
-| 16:30-17:00   | **PWN**                           | Open floor for questions                 |a     
-| 17:00-17:30   | **Microquasar**                   | Microquasar                              |a      
-| 17:30-18:00   | **Transition**                    | Connection to low- and high-energy       |a      
-|
-| 18:00-18:30   | **Wrap-up & Next Steps**          | Summary and Perspective                  |a      
-## What to Bring
-
-- [Item 1] (e.g., Laptop, notebook)
-- [Item 2] (e.g., Specific software installed)
-- [Item 3] (e.g., Questions or project ideas)
-
-## Registration
-
-[Register Here](#) (link to registration form)  
-**Deadline:** [Registration Deadline Date]  
-
-For questions, contact: [Email Address] | [Phone Number]  
+Join us for an engaging **mini-workshop** exploring the origin and propagation of **Galactic cosmic rays (GCRs)**. This event will bring together experts and researchers to discuss observational constraints, theoretical models, and open questions in the field.
 
 ---
 
-### Additional Information
+## **Workshop Details**  
+**📅 Date:** August 15, 2025  
+**🕒 Time:** 14:00 – 19:00 (Beijing Time, UTC+8)  
+**📍 Location:** Lijiang Hotel, Lijiang, Yunnan, China  
+**💻 Virtual Option:** [Zoom Link] (TBD)  
+**🎤 Organizers:** [Your Name], [Affiliation]  
 
-- [Any special instructions]
-- [Accessibility information]
-- [Parking/transportation details]
+---
 
+## **Who Should Attend?**  
+This workshop is ideal for:  
+- Researchers in **astrophysics, particle physics, and cosmic-ray propagation**  
+- Graduate students and postdocs interested in **high-energy astrophysics**  
+- Observers and theorists working on **supernova remnants, pulsar wind nebulae, and Galactic sources**  
+
+**Maximum participants:** 50 (Registration required)  
+
+---
+
+## **Workshop Agenda**  
+
+| Time          | Topic                          | Speaker       | Details  
+|---------------|--------------------------------|---------------|-----------------  
+| **13:30-14:00** | **Registration & Welcome**     | -             | Check-in and networking  
+| **14:00-14:30** | **Observational Constraints**  | Speaker A     | Latest results from gamma-ray and cosmic-ray experiments  
+| **14:30-15:00** | **Propagation Models**         | Speaker B     | Diffusion, reacceleration, and Galactic transport  
+| **15:00-15:30** | **Supernova Remnants (SNRs)**  | Speaker C     | Particle acceleration at shocks  
+| **15:30-16:00** | **HII Regions & Turbulence**   | Speaker D     | Role of massive star-forming regions  
+| **16:00-16:30** | **Coffee Break**               | -             | Networking & discussions  
+| **16:30-17:00** | **Pulsar Wind Nebulae (PWNe)** | Speaker E     | Leptonic vs. hadronic contributions  
+| **17:00-17:30** | **Microquasars & Jets**        | Speaker F     | Alternative GCR sources  
+| **17:30-18:00** | **Connecting Low & High Energy** | Speaker G   | Multi-messenger perspectives  
+| **18:00-18:30** | **Open Discussion & Wrap-up**  | All           | Future directions & collaborations  
+
+---
+
+## **What to Bring**  
+- Laptop/notebook for discussions  
+- Pre-installed software (if applicable, e.g., **CRPropa, GALPROP**)  
+- Questions and ideas for collaborative work  
+
+---
+
+## **Registration**  
+🔗 **[Register Here](#)** (Link to Google Form)  
+**📅 Deadline:** August 10, 2025  
+
+**For inquiries:**  
+✉️ [contact@email.com] | 📞 [+86 XXX-XXXX-XXXX]  
+
+---
+
+### **Additional Information**  
+- **Accommodation:** Discounted rates available at Lijiang Hotel (contact organizers)  
+- **Accessibility:** The venue is wheelchair-accessible  
+- **Transport:** Shuttle service from Lijiang Airport (upon request)  
