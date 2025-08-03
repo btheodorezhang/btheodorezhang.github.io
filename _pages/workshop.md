@@ -54,13 +54,13 @@ This workshop is ideal for:
 | **13:30-14:00** | **Registration & Welcome**     | -             | Check-in and networking  
 | **14:00-14:30** | **Observation of Galactic Cosmic rays**  | Wei Liu (刘伟）      | Latest results from CR experiments  
 | **14:30-15:00** | **Propagation Models**         | Gwenael Giacinti(贾鸿宇)     | Diffusion and Galactic transport  
-| **15:00-15:30** | **Supernova Remnants (SNRs)**  | Houdong Zeng (曾厚敦）   | Particle acceleration in shocks  
-| **15:30-16:00** | **HII Regions & Turbulence**   | TBD     | Role of massive star-forming regions  
+| **15:00-15:30** | **SNR**  | Jun Fang (方军）   | Particle acceleration in shocks  
+| **15:30-16:00** | **HII Regions & Turbulence**   |  Houdong Zeng (曾厚敦)    | Role of massive star-forming regions  
 | **16:00-16:30** | **Coffee Break**               | -             | Networking & discussions  
 | **16:30-17:00** | **Pulsar Wind Nebulae (PWNe)** | Ruoyu Liu (柳若愚）     | Leptonic vs. hadronic contributions  
 | **17:00-17:30** | **Microquasars & Jets**        | Dimitry     | Alternative GCR sources  
 | **17:30-18:00** | **Connecting Low & High Energy** | Bing   | Multi-messenger perspectives  
-| **18:00-18:30** | **Open Discussion & Wrap-up**  | All           | Future directions & collaborations  
+| **18:00-18:30** | **Open Discussion & Wrap-up**  | Cao           | Future directions & collaborations  
 
 ---
 
