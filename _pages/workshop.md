@@ -22,15 +22,15 @@ Join us for an engaging **mini-workshop** exploring the origin and propagation o
 **🕒 Time:** 14:00 – 19:00 (Beijing Time, UTC+8)  
 **📍 Location:** Lijiang Hotel, Lijiang, Yunnan
 **💻 Virtual Option:** [https://meeting.tencent.com/dm/OaZ0OVSGDxdD] (#腾讯会议：660-870-488)  
-**🎤 Organizers:** [Bing Theodore Zhang], [Institute of High Energy Physics & Tianfu Cosmic Ray Center]  
+**🎤 Organizers:** Bing Theodore Zhang, Institute of High Energy Physics & Tianfu Cosmic Ray Center
 
 ---
 
 ## **Who Should Attend?**  
 This workshop is ideal for:  
-- Researchers in **astrophysics, particle physics, and cosmic-ray propagation**  
+- Researchers in **astroparticle physics, particle physics, and cosmic-ray propagation**  
 - Graduate students and postdocs interested in **high-energy astrophysics**  
-- Observers and theorists working on **supernova remnants, pulsar wind nebulae, and Galactic sources**  
+- Observers and theorists working on **supernova remnants, pulsar wind nebulae, microquasar and other Galactic sources**  
 
 <!--
 **Maximum participants:** 50 (Registration required)  
@@ -43,9 +43,9 @@ This workshop is ideal for:
 | Time          | Topic                          | Speaker       | Details  
 |---------------|--------------------------------|---------------|-----------------  
 | **13:30-14:00** | **Registration & Welcome**     | -             | Check-in and networking  
-| **14:00-14:30** | **Observational Constraints**  | Wei Liu (刘伟）      | Latest results from gamma-ray and cosmic-ray experiments  
-| **14:30-15:00** | **Propagation Models**         | Gwenael Giacinti(贾鸿宇)     | Diffusion, reacceleration, and Galactic transport  
-| **15:00-15:30** | **Supernova Remnants (SNRs)**  | Houdong Zeng (曾厚敦）   | Particle acceleration at shocks  
+| **14:00-14:30** | **Observation of Galactic Cosmic rays**  | Wei Liu (刘伟）      | Latest results from CR experiments  
+| **14:30-15:00** | **Propagation Models**         | Gwenael Giacinti(贾鸿宇)     | Diffusion and Galactic transport  
+| **15:00-15:30** | **Supernova Remnants (SNRs)**  | Houdong Zeng (曾厚敦）   | Particle acceleration in shocks  
 | **15:30-16:00** | **HII Regions & Turbulence**   | TBD     | Role of massive star-forming regions  
 | **16:00-16:30** | **Coffee Break**               | -             | Networking & discussions  
 | **16:30-17:00** | **Pulsar Wind Nebulae (PWNe)** | Ruoyu Liu (柳若愚）     | Leptonic vs. hadronic contributions  
@@ -67,7 +67,7 @@ This workshop is ideal for:
 **📅 Deadline:** August 10, 2025  
 
 **For inquiries:**  
-✉️ [contact@email.com] | 📞 [+86 XXX-XXXX-XXXX]  
+✉️ [zhangbing@ihep.ac.cn] | 📞 [+86 138-3574-5490]  
 
 ---
 
