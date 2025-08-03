@@ -12,6 +12,7 @@ author_profile: false
 -->
 
 ![Cosmic Ray Workshop Banner](https://btheodorezhang.github.io/files/cosmic_ray_path.png)
+Cosmic rays are high-energy particles moving as speed of light. Detailed differences in their abundances can tell us about cosmic ray sources and their trip through the galaxy.
 
 Join us for an engaging **mini-workshop** exploring the origin and propagation of **Galactic cosmic rays (GCRs)**. This event will bring together experts and researchers to discuss observational constraints, theoretical models, and open questions in the field.
 
@@ -20,13 +21,21 @@ Join us for an engaging **mini-workshop** exploring the origin and propagation o
 ## **Workshop Details**  
 **📅 Date:** August 15, 2025  
 **🕒 Time:** 14:00 – 19:00 (Beijing Time, UTC+8)  
-**📍 Location:** Lijiang Hotel, Lijiang, Yunnan
+**📍 Location:** Lijiang Hotel, Lijiang, Yunnan  
 **💻 Virtual Option:** [https://meeting.tencent.com/dm/OaZ0OVSGDxdD] (#腾讯会议：660-870-488)  
-**🎤 Organizers:** Bing Theodore Zhang, Institute of High Energy Physics & Tianfu Cosmic Ray Center
+**🎤 Organizers:** Bing Theodore Zhang, Institute of High Energy Physics & Tianfu Cosmic Ray Center 
 
 ---
 
-## **Who Should Attend?**  
+## **Participants**  
+Zhen Cao (曹臻）
+Bing Theodore Zhang (张兵）
+Gwenael Giacinti(贾鸿宇)
+Ruoyu Liu (柳若愚）
+Wei Liu (刘伟）
+Houdong Zeng (曾厚敦）
+
+
 This workshop is ideal for:  
 - Researchers in **astroparticle physics, particle physics, and cosmic-ray propagation**  
 - Graduate students and postdocs interested in **high-energy astrophysics**  
