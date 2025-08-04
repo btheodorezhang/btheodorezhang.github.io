@@ -52,8 +52,8 @@ This workshop is ideal for:
 | **15:30-16:00** | **Supernova Remnants**   |  Houdong Zeng (曾厚敦)    | Particle acceleration
 | **16:00-16:30** | **Coffee Break**               | -             | Networking & discussions  
 | **16:30-17:00** | **Pulsar Wind Nebulae** | Ruoyu Liu (柳若愚）     | CR acceleration
-| **17:00-17:30** | **X-ray binaries**        | Dimitry     | Alternative GCR sources  
-| **17:30-18:00** | **Microquasars and overall picture** | Bing  | Connection to low- and high-energy CRs 
+| **17:00-17:30** | **X-ray binaries**        | Dimitry (TDB)     | Alternative GCR sources  
+| **17:30-18:00** | **Microquasars and overall picture** | Bing (张兵）| Connection to low- and high-energy CRs 
 | **18:00-18:30** | **Open Discussion & Wrap-up**  | Cao           | Future directions & collaborations  
 
 ---
@@ -77,6 +77,6 @@ This workshop is ideal for:
 ### **Additional Information**  
 - **Accommodation:** Discounted rates available at Lijiang Hotel (contact organizers)  
 <!--
-- **Accessibility:** The venue is wheelchair-accessible  
-- **Transport:** Shuttle service from Lijiang Airport (upon request)  
+**Accessibility:** The venue is wheelchair-accessible  
+**Transport:** Shuttle service from Lijiang Airport (upon request)  
 -->
