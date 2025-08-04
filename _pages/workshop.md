@@ -12,6 +12,7 @@ author_profile: false
 -->
 
 ![Cosmic Ray Workshop Banner](https://btheodorezhang.github.io/files/cosmic_ray_path.png)
+
 Cosmic rays are high-energy particles moving as speed of light. Detailed differences in their abundances can tell us about cosmic ray sources and their trip through the galaxy.
 
 Join us for an engaging **mini-workshop** exploring the origin and propagation of **Galactic cosmic rays (GCRs)**. This event will bring together experts and researchers to discuss observational constraints, theoretical models, and open questions in the field.
@@ -28,13 +29,6 @@ Join us for an engaging **mini-workshop** exploring the origin and propagation o
 ---
 
 ## **Participants**  
-Zhen Cao (曹臻）
-Bing Theodore Zhang (张兵）
-Gwenael Giacinti(贾鸿宇)
-Ruoyu Liu (柳若愚）
-Wei Liu (刘伟）
-Houdong Zeng (曾厚敦）
-
 
 This workshop is ideal for:  
 - Researchers in **astroparticle physics, particle physics, and cosmic-ray propagation**  
@@ -53,13 +47,13 @@ This workshop is ideal for:
 |---------------|--------------------------------|---------------|-----------------  
 | **13:30-14:00** | **Registration & Welcome**     | -             | Check-in and networking  
 | **14:00-14:30** | **Observation of Galactic Cosmic rays**  | Wei Liu (刘伟）      | Latest results from CR experiments  
-| **14:30-15:00** | **Propagation Models**         | Gwenael Giacinti(贾鸿宇)     | Diffusion and Galactic transport  
-| **15:00-15:30** | **SNR**  | Jun Fang (方军）   | Particle acceleration in shocks  
-| **15:30-16:00** | **HII Regions & Turbulence**   |  Houdong Zeng (曾厚敦)    | Role of massive star-forming regions  
+| **14:30-15:00** | **Propagation from Galactic PeVtrons**         | Gwenael Giacinti(贾鸿宇)     | Diffusion and Galactic transport  
+| **15:00-15:30** | **Supernova Remnants**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
+| **15:30-16:00** | **Supernova Remnants**   |  Houdong Zeng (曾厚敦)    | Particle acceleration
 | **16:00-16:30** | **Coffee Break**               | -             | Networking & discussions  
-| **16:30-17:00** | **Pulsar Wind Nebulae (PWNe)** | Ruoyu Liu (柳若愚）     | Leptonic vs. hadronic contributions  
-| **17:00-17:30** | **Microquasars & Jets**        | Dimitry     | Alternative GCR sources  
-| **17:30-18:00** | **Connecting Low & High Energy** | Bing   | Multi-messenger perspectives  
+| **16:30-17:00** | **Pulsar Wind Nebulae** | Ruoyu Liu (柳若愚）     | CR acceleration
+| **17:00-17:30** | **X-ray binaries**        | Dimitry     | Alternative GCR sources  
+| **17:30-18:00** | **Microquasars and overall picture** | Bing  | Connection to low- and high-energy CRs 
 | **18:00-18:30** | **Open Discussion & Wrap-up**  | Cao           | Future directions & collaborations  
 
 ---
