@@ -33,7 +33,7 @@ Join us for an engaging **mini-workshop** exploring the origin and propagation o
 This workshop is ideal for:  
 - Researchers in **astroparticle physics, particle physics, and cosmic-ray propagation**  
 - Graduate students and postdocs interested in **high-energy astrophysics**  
-- Observers and theorists working on **supernova remnants, pulsar wind nebulae, microquasar and other Galactic sources**  
+- Observers and theorists working on **Cosmic ray detection, supernova remnants, pulsar wind nebulae, microquasar and other Galactic sources**  
 
 <!--
 **Maximum participants:** 50 (Registration required)  
@@ -59,15 +59,15 @@ This workshop is ideal for:
 ---
 
 ## **What to Bring**  
-- Laptop/notebook for discussions  
-- Pre-installed software (if applicable, e.g., **CRPropa, GALPROP**)  
-- Questions and ideas for collaborative work  
+- Questions and ideas for discussions
 
 ---
 
+<!--
 ## **Registration**  
 🔗 **[Register Here](#)** (Link to Google Form)  
 **📅 Deadline:** August 10, 2025  
+-->
 
 **For inquiries:**  
 ✉️ [zhangbing@ihep.ac.cn] | 📞 [+86 138-3574-5490]  
@@ -76,5 +76,7 @@ This workshop is ideal for:
 
 ### **Additional Information**  
 - **Accommodation:** Discounted rates available at Lijiang Hotel (contact organizers)  
+<!--
 - **Accessibility:** The venue is wheelchair-accessible  
 - **Transport:** Shuttle service from Lijiang Airport (upon request)  
+-->
