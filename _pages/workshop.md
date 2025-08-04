@@ -52,7 +52,7 @@ This workshop is ideal for:
 | **15:10-15:30** | **Supernova Remnants**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
 | **15:30-15:50** | **Supernova Remnants**   |  Houdong Zeng (曾厚敦)    | Particle acceleration
 | **15:50-16:20** | **Coffee Break**               | -             | Networking & discussions  
-| **16:20-16:50** | **Pulsar Wind Nebulae** | Ruoyu Liu (柳若愚）     | CR acceleration
+| **16:20-16:50** | **Pulsar Wind Nebulae and other sources** | Ruoyu Liu (柳若愚）     | CR acceleration
 | **17:50-17:20** | **X-ray binaries**        | Dmitry Khangulyan (TDB)     | CR acceleration from X-ray binaries 
 | **17:20-17:50** | **Microquasars and overall picture** | Bing Theodore Zhang (张兵）| CR acceleration from microquasars and connection to low- and high-energy CRs 
 | **17:50-18:30** | **Open Discussion & Wrap-up**  | Cao           | Future directions & collaborations  
