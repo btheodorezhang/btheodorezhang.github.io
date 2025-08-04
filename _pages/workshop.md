@@ -46,15 +46,16 @@ This workshop is ideal for:
 | Time          | Topic                          | Speaker       | Details  
 |---------------|--------------------------------|---------------|-----------------  
 | **13:30-14:00** | **Registration & Welcome**     | -             | Check-in and networking  
-| **14:00-14:30** | **Observation of Galactic Cosmic rays**  | Wei Liu (刘伟）      | Latest results from CR experiments  
-| **14:30-15:00** | **Propagation from Galactic PeVtrons**         | Gwenael Giacinti(贾鸿宇)     | Diffusion and Galactic transport  
-| **15:00-15:30** | **Supernova Remnants**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
-| **15:30-16:00** | **Supernova Remnants**   |  Houdong Zeng (曾厚敦)    | Particle acceleration
-| **16:00-16:30** | **Coffee Break**               | -             | Networking & discussions  
-| **16:30-17:00** | **Pulsar Wind Nebulae** | Ruoyu Liu (柳若愚）     | CR acceleration
-| **17:00-17:30** | **X-ray binaries**        | Dimitry (TDB)     | Alternative GCR sources  
-| **17:30-18:00** | **Microquasars and overall picture** | Bing (张兵）| Connection to low- and high-energy CRs 
-| **18:00-18:30** | **Open Discussion & Wrap-up**  | Cao           | Future directions & collaborations  
+| **14:00-14:20** | **CR Spectrum and composition**  | Wang Liping (王利苹）      | Summary of Galactic CR spectrum and composition 
+| **14:20-14:40** | **CR Anisotropy**  | Wei Liu (刘伟）      | Latest results from anisotropy measurements 
+| **14:40-15:10** | **Propagation**         | Gwenael Giacinti(贾鸿宇)     | Diffusion and Galactic transport of PeV CRs  
+| **15:10-15:30** | **Supernova Remnants**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
+| **15:30-15:50** | **Supernova Remnants**   |  Houdong Zeng (曾厚敦)    | Particle acceleration
+| **15:50-16:20** | **Coffee Break**               | -             | Networking & discussions  
+| **16:20-16:50** | **Pulsar Wind Nebulae** | Ruoyu Liu (柳若愚）     | CR acceleration
+| **17:50-17:20** | **X-ray binaries**        | Dimitry (TDB)     | CR acceleration from X-ray binaries 
+| **17:20-17:50** | **Microquasars and overall picture** | Bing (张兵）| CR acceleration from microquasars and connection to low- and high-energy CRs 
+| **17:50-18:30** | **Open Discussion & Wrap-up**  | Cao           | Future directions & collaborations  
 
 ---
 
