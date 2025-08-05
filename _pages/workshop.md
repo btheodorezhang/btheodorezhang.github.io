@@ -52,8 +52,8 @@ This workshop is ideal for:
 | **15:10-15:30** | **SNR**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
 | **15:30-15:50** | **SNR**   |  Houdong Zeng (曾厚敦)    | SNR as the sources o CRs
 | **15:50-16:20** | **Coffee Break**               | -             | Networking & discussions  
-| **16:20-16:50** | **PWN and other sources** | Ruoyu Liu (柳若愚）     | CR acceleration
-| **17:50-17:20** | **X-ray binaries**        | Dmitry Khangulyan (TDB)     | CR acceleration from X-ray binaries 
+| **16:20-16:50** | **CR sources** | Ruoyu Liu (柳若愚）     | CR acceleration in PWNe and microquasars?
+| **17:50-17:20** | **CR sources**        | Dmitry Khangulyan     | CR acceleration in X-ray binaries, PWNe? 
 | **17:20-17:50** | **Microquasars and overall picture** | Bing Theodore Zhang (张兵）| CR acceleration from microquasars and connection to low- and high-energy CRs 
 | **17:50-18:30** | **Open Discussion & Wrap-up**  | Zhen Cao (曹臻）         | Summary and discussion  
 
@@ -81,11 +81,11 @@ This workshop is ideal for:
 **Accessibility:** The venue is wheelchair-accessible  
 **Transport:** Shuttle service from Lijiang Airport (upon request)  
 -->
-# Reference:
-# 2025 National Key Laboratory for Particle Astrophysics Frontier Summer School on Cosmic Ray Physics  
-## Joint Workshop of Large-Scale Scientific Facilities and User Collaboration Sub-Forum: LHAASO User Training Session  
+- **Summer school:** For your reference 
+2025 National Key Laboratory for Particle Astrophysics Frontier Summer School on Cosmic Ray Physics  
+Joint Workshop of Large-Scale Scientific Facilities and User Collaboration Sub-Forum: LHAASO User Training Session  
 
-### Conference Schedule
+Conference Schedule
 
 | Date       | Time          | Topic / Activity                              | Speaker / Host          |
 |------------|---------------|-----------------------------------------------|-------------------------|
