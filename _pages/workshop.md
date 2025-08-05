@@ -46,16 +46,16 @@ This workshop is ideal for:
 | Time          | Topic                          | Speaker       | Details  
 |---------------|--------------------------------|---------------|-----------------  
 | **13:30-14:00** | **Registration & Welcome**     | -             | Check-in and networking  
-| **14:00-14:20** | **CR Spectrum and composition**  | Wang Liping (王利苹）      | Summary of Galactic CR spectrum and composition 
+| **14:00-14:20** | **CR Spectrum and composition**  | Wang Liping (王利苹）      | Latest results from spectrum and composition measurements
 | **14:20-14:40** | **CR Anisotropy**  | Wei Liu (刘伟）      | Latest results from anisotropy measurements 
-| **14:40-15:10** | **Propagation**         | Gwenael Giacinti(贾鸿宇)     | Diffusion and Galactic transport of PeV CRs  
-| **15:10-15:30** | **Supernova Remnants**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
-| **15:30-15:50** | **Supernova Remnants**   |  Houdong Zeng (曾厚敦)    | Particle acceleration
+| **14:40-15:10** | **Propagation**         | Gwenael Giacinti(贾鸿宇)     | Propagation of CRs in our Galaxy  
+| **15:10-15:30** | **SNR**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
+| **15:30-15:50** | **SNR**   |  Houdong Zeng (曾厚敦)    | SNR as the sources o CRs
 | **15:50-16:20** | **Coffee Break**               | -             | Networking & discussions  
-| **16:20-16:50** | **Pulsar Wind Nebulae and other sources** | Ruoyu Liu (柳若愚）     | CR acceleration
+| **16:20-16:50** | **PWN and other sources** | Ruoyu Liu (柳若愚）     | CR acceleration
 | **17:50-17:20** | **X-ray binaries**        | Dmitry Khangulyan (TDB)     | CR acceleration from X-ray binaries 
 | **17:20-17:50** | **Microquasars and overall picture** | Bing Theodore Zhang (张兵）| CR acceleration from microquasars and connection to low- and high-energy CRs 
-| **17:50-18:30** | **Open Discussion & Wrap-up**  | Cao           | Future directions & collaborations  
+| **17:50-18:30** | **Open Discussion & Wrap-up**  | Zhen Cao (曹臻）         | Summary and discussion  
 
 ---
 
