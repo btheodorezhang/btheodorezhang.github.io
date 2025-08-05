@@ -53,7 +53,7 @@ This workshop is ideal for:
 | **15:30-15:50** | **SNR**   |  Houdong Zeng (曾厚敦)    | SNR as the sources o CRs
 | **15:50-16:20** | **Coffee Break**               | -             | Networking & discussions  
 | **16:20-16:50** | **CR sources** | Ruoyu Liu (柳若愚）     | CR acceleration in PWNe and microquasars?
-| **17:50-17:20** | **CR sources**        | Dmitry Khangulyan     | CR acceleration in X-ray binaries, PWNe? 
+| **16:50-17:20** | **CRs from binary pulsar systems**        | Dmitry Khangulyan     | Very efficient particle acceleration in binary pulsar systems
 | **17:20-17:50** | **Microquasars and overall picture** | Bing Theodore Zhang (张兵）| CR acceleration from microquasars and connection to low- and high-energy CRs 
 | **17:50-18:30** | **Open Discussion & Wrap-up**  | Zhen Cao (曹臻）         | Summary and discussion  
 
