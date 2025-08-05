@@ -81,3 +81,70 @@ This workshop is ideal for:
 **Accessibility:** The venue is wheelchair-accessible  
 **Transport:** Shuttle service from Lijiang Airport (upon request)  
 -->
+# Reference:
+# 2025 National Key Laboratory for Particle Astrophysics Frontier Summer School on Cosmic Ray Physics  
+## Joint Workshop of Large-Scale Scientific Facilities and User Collaboration Sub-Forum: LHAASO User Training Session  
+
+### Conference Schedule
+
+| Date       | Time          | Topic / Activity                              | Speaker / Host          |
+|------------|---------------|-----------------------------------------------|-------------------------|
+| **Aug 10** | 14:00-20:00   | Registration (Lijiang Hotel)                  | -                       |
+| **Aug 11** | 10:00-20:00   | Registration (Lijiang Hotel)                  | -                       |
+|            | 09:00-10:00   | KM2A Experiment & Data Introduction           | Li Zhe                  |
+|            | 10:00-11:00   | WCDA Experiment & Data Introduction          | Li Huicai               |
+|            | 11:00-11:20   | Tea Break + Group Photo                      | -                       |
+|            | 11:20-12:20   | WFCTA Experiment & Data Introduction         | Yin Liqiao              |
+|            | 12:30-14:00   | Lunch                                         | -                       |
+|            | 14:00-14:30   | KM2A Gamma-Ray Source Analysis Software       | Xi Shaoqiang            |
+|            | 14:30-15:30   | Hands-on Practice                             | -                       |
+|            | 15:30-16:00   | WCDA Gamma-Ray Source Analysis Software       | Hu Shicong              |
+|            | 16:00-17:00   | Hands-on Practice                             | -                       |
+|            | 18:00-19:00   | Dinner                                        | -                       |
+| **Aug 12** | 09:00-11:30   | Overview of Gamma-Ray Astronomy               | Chen Songzhan           |
+|            | 11:30-12:30   | Roundtable Discussion                         | Wu Sha                  |
+|            | 12:30-14:00   | Lunch (+ Group Photo)                         | -                       |
+|            | 14:00-16:30   | Binary Star Evolution: Theory & Physics       | Li Xiangdong            |
+|            | 16:30-17:30   | Roundtable Discussion                         | Li Cong                 |
+|            | 17:30-18:30   | AI for Science                                | Chen Huaxi              |
+|            | 18:30-19:30   | Dinner                                        | -                       |
+| **Aug 13** | 09:00-11:30   | Overview of Cosmic Ray Physics                | Yuan Qiang              |
+|            | 11:30-12:30   | Roundtable Discussion                         | Liu Wei                 |
+|            | 12:30-14:00   | Lunch                                         | -                       |
+|            | 14:00-16:30   | Gamma-Ray Bursts & Related Physics            | Yu Yunwei               |
+|            | 16:30-17:30   | Roundtable Discussion                         | Mao Jirong              |
+|            | 17:30-18:00   | VLAST Project (Youth Forum)                   | Li Xiang                |
+|            | 18:00-18:30   | SWGO Project (Youth Forum)                    | Liu Jia                 |
+|            | 18:30-19:30   | Dinner                                        | -                       |
+| **Aug 14** | 09:00-16:00   | Field Visit: Lijiang Astronomical Observatory | -                       |
+| **Aug 15** | 09:00-11:30   | Supernova Remnants: Theory & Physics          | Zhou Ping               |
+|            | 11:30-12:30   | Roundtable Discussion                         | Zeng Houdun             |
+|            | 12:30-14:00   | Lunch                                         | -                       |
+|            | 14:00-16:30   | Solar Magnetic Fields & Related Physics       | Lin Jun                 |
+|            | 16:30-17:30   | Roundtable Discussion                         | Li Zhe                  |
+|            | 17:30-18:00   | AMS Experiment: Latest Results & Upgrade Plan (Youth Forum) | Chen Yao       |
+|            | 18:00-18:30   | LACT Project (Youth Forum)                    | Liu Jiali               |
+|            | 18:30-19:30   | Dinner                                        | -                       |
+| **Aug 16** | 09:00-11:30   | Accretion Disks & Jets: Physics               | Yuan Feng               |
+|            | 11:30-12:30   | Roundtable Discussion                         | Liu Ruoyu               |
+|            | 12:30-14:00   | Lunch                                         | -                       |
+|            | 14:00-15:30   | High-Energy Strong Interaction Theory         | Ke Weiyao               |
+|            | 16:00-17:30   | Galactic Magnetic Fields                      | Han Jinlin              |
+|            | 17:30-18:00   | HUNT Project (Youth Forum)                    | Liu Cheng               |
+|            | 18:00-19:00   | Dinner                                        | -                       |
+| **Aug 17** | 09:00-11:30   | Pulsars: Physics & Theory                     | Xu Renxin               |
+|            | 11:30-12:30   | LHAASO's New Scientific Discoveries           | Cao Zhen                |
+|            | 12:30-12:40   | Closing Ceremony                              | -                       |
+|            | 12:40-14:00   | Lunch                                         | -                       |
+|            | 14:00-16:00   | Departure                                     | -                       |
+
+### Key Abbreviations:
+- **LHAASO**: Large High Altitude Air Shower Observatory
+- **KM2A**: Kilometer Square Array
+- **WCDA**: Water Cherenkov Detector Array
+- **WFCTA**: Wide Field Cherenkov Telescope Array
+- **VLAST**: Very Large Area Space Telescope
+- **SWGO**: Southern Wide-field Gamma-ray Observatory
+- **LACT**: Large Area Cherenkov Telescope
+- **HUNT**: High-energy Universe Neutrino Telescope
+- **AMS**: Alpha Magnetic Spectrometer
