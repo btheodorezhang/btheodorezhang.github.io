@@ -49,8 +49,8 @@ This workshop is ideal for:
 | **14:00-14:20** | **CR Spectrum and composition**  | Wang Liping (王利苹）      | Latest results from spectrum and composition measurements
 | **14:20-14:40** | **CR Anisotropy**  | Wei Liu (刘伟）      | Latest results from anisotropy measurements 
 | **14:40-15:10** | **Propagation**         | Gwenael Giacinti(贾鸿宇)     | Propagation of CRs in our Galaxy  
-| **15:10-15:30** | **SNR**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
-| **15:30-15:50** | **SNR**   |  Houdong Zeng (曾厚敦)    | SNR as the sources o CRs
+| **15:10-15:30** | **CR acceleration in SNR**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
+| **15:30-15:50** | **CR from SNR**   |  Houdong Zeng (曾厚敦)    | SNR as the sources of CRs
 | **15:50-16:20** | **Coffee Break**               | -             | Networking & discussions  
 | **16:20-16:50** | **CR sources** | Ruoyu Liu (柳若愚）     | CR acceleration in PWNe and microquasars?
 | **16:50-17:20** | **Particle acceleration beyond the synchrotron burnoff limit in gamma-ray binary systems**        | Dmitry Khangulyan     | Very efficient particle acceleration in binary pulsar systems
