@@ -11,18 +11,22 @@ redirect_from:
 
 Please click [here](http://btheodorezhang.github.io/files/Curriculum_Vitae.pdf) to see the full CV in pdf format.
 
-<!--
 ## APPOINTMENTS
 ======
-* Postdoctoral Research Scholar, 2019 - 
-  * The Pennsylvania State University
-  * Department of Physics, Institute for Gravitation & the Cosmos (IGC) 
+* Associate professor (青年特聘研究员）, 2024.8 - 
+  * Institute of high-energy physics (IHEP), CAS
+
+======
+* Postdoctoral Research Scholar, 2019 - 2024
+  * The Pennsylvania State University, 2019-2021
+  * YITP, Kyoto University, 2021-2024
 
 ## Education
 ======
 * Ph.D in Astrophysics, Peking University, China, 2019
 * B.S. in Applied Physics, Harbin Institute of Technology, China, 2013
 
+<!--
 ## Collaborations
 ======
 * Member, Giant Radio Array for Neutrino Detection (GRAND) Collaboration, 2017 - present
