@@ -41,7 +41,7 @@ This workshop is ideal for:
 
 ---
 
-## **Workshop Agenda**  
+## **Workshop Agenda (August 15)**  
 
 | Time          | Topic                          | Speaker       | Details  
 |---------------|--------------------------------|---------------|-----------------  
