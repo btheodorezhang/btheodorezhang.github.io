@@ -9,11 +9,11 @@ main:
   - title: "Research"
     url: /research/
 
-  #- title: "GRANDProto300"
-  #  url: /GRANDProto300/    
-        
   - title: "Group"
     url: /group/
+
+  - title: "AMES"
+    url: /ames/    
 
   #- title: "Blog Posts"
   #  url: /blog/
