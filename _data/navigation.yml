@@ -12,8 +12,8 @@ main:
   #- title: "GRANDProto300"
   #  url: /GRANDProto300/    
         
-  #- title: "Resource"
-  #  url: /resource/
+  - title: "Group"
+    url: /group/
 
   #- title: "Blog Posts"
   #  url: /blog/
