@@ -39,7 +39,31 @@ This workshop is ideal for:
 **Maximum participants:** 50 (Registration required)  
 -->
 
+# Workshop Agenda  (*August 15, 2024)
+
 ---
+
+| Time          | Topic                                   | Speaker                  |
+|---------------|----------------------------------------|--------------------------|
+| 13:30-14:00  | **Registration & Welcome Coffee**      | Organizing Committee     |
+| 14:00-14:20  | Cosmic Ray Spectrum and Composition    | Liping Wang (王利苹)      |
+| 14:20-14:40  | Anisotropy in CR Arrival Directions    | Wei Liu (刘伟)           |
+| 14:40-15:10  | Galactic CR Propagation Models         | Gwenael Giacinti (贾鸿宇) |
+| 15:10-15:30  | Particle Acceleration in SNR Shocks    | Jun Fang (方军)          |
+| 15:30-15:50  | SNRs as Cosmic Ray Factories           | Houdong Zeng (曾厚敦)     |
+| 15:50-16:20  | *Coffee Break & Networking*            |                          |
+| 16:20-16:50  | Alternative CR Sources: PWNe/Microquasars | Ruoyu Liu (柳若愚)      |
+| 16:50-17:20  | Extreme Acceleration in γ-Ray Binaries | Dmitry Khangulyan        |
+| 17:20-17:50  | Implications from Composition Measurements: Microquasars and Other Potential Sources | Bing Theodore Zhang (张兵)|
+| 17:20-17:50  | **Open Discussion & Wrap-up** | Zhen Cao (曹臻)|
+
+---
+
+**Notes:**  
+- All times are in [Timezone]  
+- Q&A sessions will follow each presentation  
+- Live streaming available at [Link]  
+
 
 ## **Workshop Agenda (August 15)**  
 
@@ -52,7 +76,7 @@ This workshop is ideal for:
 | **15:10-15:30** | **CR acceleration in SNR**  | Jun Fang (方军）   | Particle acceleration in SNR shocks  
 | **15:30-15:50** | **CR from SNR**   |  Houdong Zeng (曾厚敦)    | SNR as the sources of CRs
 | **15:50-16:20** | **Coffee Break**               | -             | Networking & discussions  
-| **16:20-16:50** | **CR sources** | Ruoyu Liu (柳若愚）     | CR acceleration in PWNe and microquasars?
+| **16:20-16:50** | **CR sources (TBD)** | Ruoyu Liu (柳若愚）     | CR acceleration in PWNe and microquasars?
 | **16:50-17:20** | **Particle acceleration beyond the synchrotron burnoff limit in gamma-ray binary systems**        | Dmitry Khangulyan     | Very efficient particle acceleration in binary pulsar systems
 | **17:20-17:50** | **Microquasars and overall picture** | Bing Theodore Zhang (张兵）| CR acceleration from microquasars and connection to low- and high-energy CRs 
 | **17:50-18:30** | **Open Discussion & Wrap-up**  | Zhen Cao (曹臻）         | Summary and discussion  
