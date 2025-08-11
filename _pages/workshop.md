@@ -19,12 +19,21 @@ Join us for an engaging **mini-workshop** exploring the origin and propagation o
 
 ---
 
-## **Workshop Details**  
+## 🗓 Workshop Details  
 **📅 Date:** August 15, 2025  
 **🕒 Time:** 14:00 – 19:00 (Beijing Time, UTC+8)  
-**📍 Location:** Lijiang Hotel, Lijiang, Yunnan (云南省丽江市丽江宾馆) [https://www.google.com/maps/place/Lijiang+Hotel/@26.8777405,100.2283258,17z/data=!3m1!4b1!4m9!3m8!1s0x3720ca3992d07591:0x49a968cd9c6df016!5m2!4m1!1i2!8m2!3d26.8777405!4d100.2283258!16s%2Fg%2F1tj1_x8g?entry=ttu&g_ep=EgoyMDI1MDgwNi4wIKXMDSoASAFQAw%3D%3D] 
-**💻 Virtual Option:** [https://meeting.tencent.com/dm/OaZ0OVSGDxdD] (#腾讯会议：660-870-488)  
-**🎤 Organizers:** Bing Theodore Zhang, Institute of High Energy Physics & Tianfu Cosmic Ray Center 
+**📍 Venue:** Lijiang Hotel, Yunnan  
+*Address:* No. 521 Fuhui East Road, Lijiang Ancient Town District  
+[📍 Baidu Maps](https://j.map.baidu.com/6d/2KTd) 
+[📍 Google Maps](https://maps.app.goo.gl/5XV2fp3JSXrx8KAs7) 
+
+**💻 Virtual Participation:**  
+[Tencent Meeting Link](https://meeting.tencent.com/dm/OaZ0OVSGDxdD)  
+Meeting ID: 660-870-488  
+
+**🎤 Hosted by:**  
+Bing Theodore Zhang  
+*Institute of High Energy Physics & Tianfu Cosmic Ray Center*  
 
 ---
 
