@@ -23,7 +23,7 @@ Join us for an engaging **mini-workshop** exploring the origin and propagation o
 **📅 Date:** August 15, 2025  
 **🕒 Time:** 14:00 – 19:00 (Beijing Time, UTC+8)  
 **📍 Venue:** Lijiang Hotel, Lijiang, Yunnan  
-*Meeting Room:* Second Floor of the Registration Building at Lijiang Hotel   
+*Meeting Room:* Third Floor of the Registration Building at Lijiang Hotel   
 *Address:* No. 521 Fuhui East Road, Lijiang Ancient Town District  
 [📍 Baidu Maps](https://j.map.baidu.com/6d/2KTd) 
 [📍 Google Maps](https://maps.app.goo.gl/5XV2fp3JSXrx8KAs7) 
