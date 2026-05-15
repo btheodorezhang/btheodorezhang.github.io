@@ -61,7 +61,7 @@ This workshop is ideal for:
 | 14:40-15:10  | Galactic CR Propagation Models         | Gwenael Giacinti (贾鸿宇) |
 | 15:10-15:30  | Particle Acceleration in SNR Shocks    | Jun Fang (方军)          |
 | 15:30-15:50  | SNRs as Cosmic Ray Factories           | Houdong Zeng (曾厚敦)     |
-| 15:50-16:20  | *Coffee Breakg*            |                          |
+| 15:50-16:20  | *Coffee Break*            |                          |
 | 16:20-16:50  | Alternative CR Sources: PWNe/Microquasars | Ruoyu Liu (柳若愚)      |
 | 16:50-17:20  | Extreme Acceleration in γ-Ray Binaries | Dmitry Khangulyan        |
 | 17:20-17:50  | Implications from Composition Measurements: Microquasars and Other Potential Sources | Bing Theodore Zhang (张兵)|

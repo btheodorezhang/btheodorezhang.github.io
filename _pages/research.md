@@ -26,7 +26,6 @@ My research primarily concentrates on these key areas:
 
 
 
-
 Latest featured research
 ------
 
