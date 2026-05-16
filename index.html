@@ -8,9 +8,33 @@
 		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
 		
 		<style>
+			/* 双语切换控制 */
 			body.lang-en .lang-zh { display: none !important; }
 			body.lang-zh .lang-en { display: none !important; }
 			#lang-toggle { cursor: pointer; color: #efa8b0; font-weight: bold; }
+			
+			/* 列表与团队板块样式 */
+			.activity-list li { margin-bottom: 1em; text-align: left; }
+			.group-category { margin-bottom: 2em; text-align: left; }
+			.group-category h3 { border-bottom: 1px solid rgba(255,255,255,0.1); padding-bottom: 0.3em; }
+			
+			/* 科研配图精美样式 - 尺寸已缩小 */
+			.research-img { 
+				max-width: 55%; /* 从 80% 缩小到 55% */
+				height: auto; 
+				border-radius: 8px; 
+				margin: 1.5em auto 2.5em auto; 
+				display: block; 
+				box-shadow: 0 4px 15px rgba(0,0,0,0.2); 
+				transition: transform 0.3s ease;
+			}
+			.research-img:hover {
+				transform: scale(1.02); /* 鼠标悬停时微微放大 */
+			}
+			/* 手机端图片自动撑满 - 已调整为 90% 留出边距 */
+			@media screen and (max-width: 736px) {
+				.research-img { max-width: 90%; }
+			}
 		</style>
 	</head>
 	
@@ -19,31 +43,25 @@
 		<div id="wrapper">
 
 				<header id="header" class="alt">
-						<span class="logo"><img src="images/pic01.jpg" alt="Profile Picture" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" /></span>
+						<span class="logo"><img src="images/profile_phd.png" alt="Profile Picture" style="border-radius: 50%; width: 120px; height: 120px; object-fit: cover;" /></span>
 						<h1>
 							<span class="lang-en">Bing Theodore Zhang</span>
-							<span class="lang-zh">张兵</span>
+							<span class="lang-zh">张冰</span>
 						</h1>
 						<p>
-							<span class="lang-en">Associate Professor at Institute of High-Energy Physics (IHEP), CAS<br />High-Energy & Multimessenger Astrophysicist</span>
+							<span class="lang-en">Associate Researcher at Institute of High-Energy Physics (IHEP), CAS<br />High-Energy & Multimessenger Astrophysicist</span>
 							<span class="lang-zh">中国科学院高能物理研究所（IHEP）副研究员<br />高能与多信使天体物理学家</span>
 						</p>
 					</header>
 
 				<nav id="nav">
 						<ul>
-							<li><a href="#intro" class="active">
-								<span class="lang-en">About Me</span><span class="lang-zh">个人简介</span>
-							</a></li>
-							<li><a href="#research">
-								<span class="lang-en">Research</span><span class="lang-zh">科研方向</span>
-							</a></li>
-							<li><a href="#publications">
-								<span class="lang-en">Publications</span><span class="lang-zh">代表作</span>
-							</a></li>
-							<li><a href="#footer">
-								<span class="lang-en">Contact</span><span class="lang-zh">联系方式</span>
-							</a></li>
+							<li><a href="#intro" class="active"><span class="lang-en">About Me</span><span class="lang-zh">个人简介</span></a></li>
+							<li><a href="#activities"><span class="lang-en">News</span><span class="lang-zh">近期活动</span></a></li>
+							<li><a href="#research"><span class="lang-en">Research</span><span class="lang-zh">科研方向</span></a></li>
+							<li><a href="#publications"><span class="lang-en">Publications</span><span class="lang-zh">代表作</span></a></li>
+							<li><a href="#group"><span class="lang-en">Group</span><span class="lang-zh">研究组</span></a></li>
+							<li><a href="#footer"><span class="lang-en">Contact</span><span class="lang-zh">联系方式</span></a></li>
 							<li><a id="lang-toggle" onclick="toggleLanguage()">🌐 中文 / EN</a></li>
 						</ul>
 					</nav>
@@ -62,14 +80,48 @@
 										<p class="lang-en">I am an Associate Professor at the Institute of High-Energy Physics (IHEP), Chinese Academy of Sciences, and the TIANFU Cosmic Ray Research Center. Previously, I was a Research Assistant Professor at the Yukawa Institute for Theoretical Physics (YITP), Kyoto University, and a Postdoctoral Scholar at Penn State University. My research focuses on multimessenger and high-energy astrophysics, particularly the origin, acceleration, and propagation of the highest-energy particles in the Universe. I am also a core developer of the Astrophysical Multimessenger Emission Simulator (AMES).</p>
 										
 										<p class="lang-zh">我是中国科学院高能物理研究所（IHEP）及天府宇宙线研究中心的副研究员。此前，我曾在日本京都大学基础物理学研究所（YITP）及美国宾夕法尼亚州立大学（Penn State）从事研究工作。我的研究主要集中在多信使天体物理学和高能天体物理学领域，致力于探索宇宙最高能粒子的起源、加速与传播机制。我也是天体物理多信使辐射模拟代码（AMES）的核心开发者。</p>
+										
 										<ul class="actions">
-											<li><a href="#publications" class="button">
-												<span class="lang-en">View My Research</span><span class="lang-zh">查看我的研究成果</span>
-											</a></li>
+											<li>
+												<a href="Curriculum_Vitae.pdf" target="_blank" class="button icon solid fa-download">
+													<span class="lang-en">Download CV (PDF)</span><span class="lang-zh">下载个人简历 (PDF)</span>
+												</a>
+											</li>
 										</ul>
 									</div>
 									<span class="image"><img src="images/pic01.jpg" alt="Profile Picture" /></span>
 								</div>
+							</section>
+
+						<section id="activities" class="main">
+								<header class="major">
+									<h2>
+										<span class="lang-en">Recent Activities</span>
+										<span class="lang-zh">近期活动</span>
+									</h2>
+								</header>
+								<ul class="activity-list">
+									<li>
+										<strong>[2026.05]</strong> 
+										<span class="lang-en">Conducting a research residency at the Centre for Advanced Study (CAS) in Oslo, Norway, focusing on Tidal Disruption Events (TDEs) and particle acceleration models.</span>
+										<span class="lang-zh">赴挪威奥斯陆高级研究中心（CAS）进行学术访问与驻研，开展关于潮汐撕裂事件（TDEs）与粒子加速模型的合作研究。</span>
+									</li>
+									<li>
+										<strong>[2026.05]</strong> 
+										<span class="lang-en">Our paper <em>"Ultraheavy Ultrahigh-Energy Cosmic Rays"</em> has been formally accepted for publication in <strong>Physical Review Letters (PRL)</strong>.</span>
+										<span class="lang-zh">一作研究论文 <em>"Ultraheavy Ultrahigh-Energy Cosmic Rays"</em> 正式被 <strong>Physical Review Letters (PRL)</strong> 接受发表。</span>
+									</li>
+									<li>
+										<strong>[2026.04]</strong> 
+										<span class="lang-en">Attended the LHAASO Collaboration meeting in Suzhou, China.</span>
+										<span class="lang-zh">参加LHAASO合作组会议，苏州。</span>
+									</li>
+									<li>
+										<strong>[2026.02]</strong> 
+										<span class="lang-en">Organized and chaired sessions for the <em>Symposium on Ultra-High-Energy Gamma Rays from Supernova Remnants and the Origin of Galactic Cosmic Rays</em>.</span>
+										<span class="lang-zh">组织并主持了“超新星遗迹超高能伽马射线与银河系宇宙线起源”学术研讨会。</span>
+									</li>
+								</ul>
 							</section>
 
 						<section id="research" class="main special">
@@ -92,10 +144,10 @@
 									<li>
 										<span class="icon solid major style3 fa-star"></span>
 										<h3>
-											<span class="lang-en">Galactic PeVatrons & Microquasars</span>
+											<span class="lang-en">Galactic PeVatrons & Microquasars & SNRs</span>
 											<span class="lang-zh">银河系 PeVatron 与微类星体</span>
 										</h3>
-										<p class="lang-en">Exploring the origins of Galactic cosmic rays using Very-High-Energy (VHE) gamma-rays, specifically focusing on large-scale jet-cocoon systems in microquasars as PeVatrons.</p>
+										<p class="lang-en">Exploring the origins of Galactic cosmic rays using Very-High-Energy (VHE) gamma-rays, specifically focusing on microquasars and SNRs as Galactic cosmic ray sources.</p>
 										<p class="lang-zh">利用甚高能（VHE）伽马射线探索银河系宇宙线的起源，特别是微类星体大尺度喷流-茧系统作为 PeVatron 的物理机制。</p>
 									</li>
 									<li>
@@ -113,11 +165,9 @@
 						<section id="publications" class="main">
 								<header class="major">
 									<h2>
-										<span class="lang-en">Selected Publications</span>
-										<span class="lang-zh">近期代表作</span>
+										<span class="lang-en">Selected Publications & Highlights</span>
+										<span class="lang-zh">近期代表作与科研亮点</span>
 									</h2>
-									<p class="lang-en">Below are my recent core research works, covering microquasars, ultraheavy cosmic rays, and multi-wavelength gamma-ray bursts.</p>
-									<p class="lang-zh">以下是我近期完成的核心研究工作，涵盖了微类星体、超重宇宙线及伽马射线暴的多信使研究。</p>
 								</header>
 								
 								<div class="content" style="text-align: left;">
@@ -126,7 +176,8 @@
 									<em>Phys. Rev. D 112, 123015 (2025)</em> | <a href="https://arxiv.org/abs/2506.20193" target="_blank">arXiv:2506.20193</a><br>
 									<span class="lang-en"><strong>Abstract:</strong> We propose that shear acceleration within large-scale microquasar jet-cocoon structures can naturally explain the Galactic cosmic ray spectrum up to the knee (~3 PeV), offering a unified picture for CR origins.</span>
 									<span class="lang-zh"><strong>摘要：</strong>提出了微类星体大尺度喷流-茧结构中的剪切加速机制，能够自然地解释银河系宇宙线能谱至“膝”区（~3 PeV）的观测结果，为银河系宇宙线起源提供了统一的物理图景。</span></p>
-
+									
+									<img src="images/mq-jet-cocoon.png" alt="Microquasar CR Spectrum Fit" class="research-img" />
 									<hr>
 
 									<h3>2. Ultraheavy Ultrahigh-Energy Cosmic Rays</h3>
@@ -134,23 +185,86 @@
 									<em>Phys. Rev. Lett. 136, 181002 (2026)</em> | <a href="https://arxiv.org/abs/2405.17409" target="_blank">arXiv:2405.17409</a><br>
 									<span class="lang-en"><strong>Abstract:</strong> We investigate the propagation of ultraheavy (UH) nuclei at extreme energies (&lesssim; 300 EeV), showing their energy-loss lengths are significantly longer than intermediate-mass elements, making them compelling candidates for events like the Amaterasu particle.</span>
 									<span class="lang-zh"><strong>摘要：</strong>研究了超重核宇宙线在极端能量（&lesssim; 300 EeV）下的传播，指出其能量损失长度显著长于中等质量核，极有可能是 Amaterasu 粒子等极端高能事件的来源。</span></p>
-
+									
+									<img src="images/UH-UHECR-skematic_plot.png" alt="Propagation of Ultraheavy UHECRs" class="research-img" />
 									<hr>
 
-									<h3>3. The origin of very-high-energy gamma-rays from GRB 221009A</h3>
+									<h3>3. A Unified Framework for 10 TeV to EeV Diffuse Neutrino Sky and KM3-230213A</h3>
+									<p>S. Yu, <strong>B. Theodore Zhang</strong>. <br>
+									<em>Astrophys. J. Lett. 1002, L45 (2026)</em> | <a href="https://arxiv.org/abs/2602.02372" target="_blank">arXiv:2602.02372</a><br>
+									<span class="lang-en"><strong>Abstract:</strong> Developed a unified framework to explain the diffuse neutrino sky spanning from 10 TeV to EeV energies, with implications for the KM3-230213A event.</span>
+									<span class="lang-zh"><strong>摘要：</strong>建立了一个统一的多信使框架，解释了从 10 TeV 至 EeV 能段的弥散中微子辐射，并探讨了其对中微子事件 KM3-230213A 的启示。</span></p>
+									<img src="images/diffuse-LLGRB.png" alt="Diffuse neutrinos from LLGRBs" class="research-img" />
+									<hr>
+
+									<h3>4. The origin of very-high-energy gamma-rays from GRB 221009A</h3>
 									<p><strong>B. Theodore Zhang</strong>, K. Murase, K. Ioka, B. Zhang. <br>
 									<em>JHEAp 45, 392-408 (2025)</em> | <a href="https://arxiv.org/abs/2311.13671" target="_blank">arXiv:2311.13671</a><br>
 									<span class="lang-en"><strong>Abstract:</strong> Exploring the VHE gamma-ray origins of the hyper-bright GRB 221009A, revealing the crucial role of reverse shock proton synchrotron emission in accelerating protons to extreme energies in the early afterglow phase.</span>
 									<span class="lang-zh"><strong>摘要：</strong>探讨了极亮伽马暴 GRB 221009A 的甚高能（VHE）伽马射线起源，揭示了反向激波质子同步辐射在早期余辉阶段加速质子至极端能量的重要作用。</span></p>
+									
+									<img src="images/GRB221009A.png" alt="GRB 221009A Proton Synchrotron Spectrum" class="research-img" />
+									<hr>
+
+									<h3>5. Microquasar Remnants as Pevatrons Illuminating the Galactic Cosmic Ray Knee</h3>
+									<p><strong>B. Theodore Zhang</strong>, S. Yu. <br>
+									<a href="https://arxiv.org/abs/2602.08940" target="_blank">arXiv:2602.08940</a> (2026)<br>
+									<span class="lang-en"><strong>Abstract:</strong> Investigating microquasar remnants as a dominant class of Galactic PeVatrons, providing a natural explanation for the cosmic-ray spectrum up to the knee region.</span>
+									<span class="lang-zh"><strong>摘要：</strong>探讨了微类星体遗迹作为银河系主要PeVatron的物理机制，为宇宙线能谱延伸至“膝”区提供了解释。</span></p>
+									<hr>
+
+									<h3>6. A Minimal Interpretation of the Galactic Cosmic-Ray Proton and Helium Spectra</h3>
+									<p>F. Aharonian, <strong>B. Theodore Zhang</strong>. <br>
+									<a href="https://arxiv.org/abs/2602.08223" target="_blank">arXiv:2602.08223</a> (2026)<br>
+									<span class="lang-en"><strong>Abstract:</strong> Proposed a minimal and elegant model to interpret the Galactic cosmic-ray proton and helium spectra across a wide energy range from GeV to PeV.</span>
+									<span class="lang-zh"><strong>摘要：</strong>提出了一种极简理论模型，以解释从GeV到PeV宽能段范围内的银河系宇宙线质子与氦核能谱。</span></p>
+									<hr>
+
 								</div>
 								
-								<footer class="major">
+								<footer class="major" style="margin-top: 2em;">
 									<ul class="actions special">
 										<li><a href="https://inspirehep.net/authors/1649890" target="_blank" class="button">
-											<span class="lang-en">See All Papers on Inspire</span><span class="lang-zh">在 Inspire 上查看全部论文</span>
+											<span class="lang-en">See All Papers on inspire</span><span class="lang-zh">在 inspire 上查看全部论文</span>
 										</a></li>
 									</ul>
 								</footer>
+							</section>
+
+						<section id="group" class="main">
+								<header class="major">
+									<h2>
+										<span class="lang-en">Research Group</span>
+										<span class="lang-zh">研究组信息</span>
+									</h2>
+									<p class="lang-en">We are always looking for highly motivated postdocs, Ph.D. students, and Master's students to join our team. If interested, please drop me an email with your CV.</p>
+									<p class="lang-zh">我们团队常年招收优秀的博士后、博士研究生和硕士研究生。欢迎对高能天体物理和多信使数值模拟感兴趣的同学通过邮件联系我并附上简历。</p>
+								</header>
+
+								<div class="group-category">
+									<h3>👥 <span class="lang-en">Postdoctoral Researchers</span><span class="lang-zh">博士后</span></h3>
+									<ul>
+										<li><span class="lang-en"><strong>Dr. Tianci Zheng</strong></span><span class="lang-zh"><strong>郑天赐 博士</strong></span></li>
+										<li><span class="lang-en"><strong>Dr. Wei Zhang</strong></span><span class="lang-zh"><strong>张玮 博士</strong></span></li>
+										<li><span class="lang-en">Opening available — contact via email for application details.</span><span class="lang-zh">暂有空缺 — 欢迎通过邮件咨询申请详情。</span></li>
+									</ul>
+								</div>
+
+								<div class="group-category">
+									<h3>🎓 <span class="lang-en">Ph.D. Students</span><span class="lang-zh">博士研究生</span></h3>
+									<ul>
+										<li><span class="lang-en">Position open for upcoming academic year.</span><span class="lang-zh">新学年名额开放招募中。</span></li>
+									</ul>
+								</div>
+
+								<div class="group-category">
+									<h3>📖 <span class="lang-en">Master's Students</span><span class="lang-zh">硕士研究生</span></h3>
+									<ul>
+										<li><span class="lang-en"><strong>Joint Master's Students:</strong> Shilong Chen, Wenkang Lian</span><span class="lang-zh"><strong>联合培养硕士生：</strong>陈世龙，连文康</span></li>
+										<li><span class="lang-en"><strong>Collaborating Master's Students:</strong> Siyu Chen, Jiayi Wang</span><span class="lang-zh"><strong>合作指导硕士生：</strong>陈思羽，王家毅</span></li>
+										<li><span class="lang-en">Inquiries for institutional rotation and thesis projects are welcome.</span><span class="lang-zh">欢迎所内轮转生及毕业论文推免生联系。</span></li>
+									</ul>
+								</div>
 							</section>
 
 					</div>
