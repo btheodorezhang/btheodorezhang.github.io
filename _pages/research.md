@@ -33,5 +33,5 @@ The origin of the most extreme cosmic rays, such as the recently detected "Amate
 
 Recent observations suggest the cosmic-ray "knee" region (~3 PeV) is dominated by protons, but the exact Galactic accelerators capable of reaching these energies have been elusive. We propose that microquasars act as dominant Galactic PeVatrons. By modeling shear acceleration within their large-scale jet-cocoon structures, we successfully reproduce the observed proton spectrum up to the knee and bridge the transition to heavier elements, offering a unified explanation for the Galactic cosmic-ray spectrum.
 ## Microquasar jet-cocoon systems as PeVatrons ([arXiV: 2506.20193](https://arxiv.org/abs/2506.20193))
-![alt text](https://btheodorezhang.github.io/files/mq-jet-cocoon)
+![alt text](https://btheodorezhang.github.io/files/mq-jet-cocoon.png)
 
